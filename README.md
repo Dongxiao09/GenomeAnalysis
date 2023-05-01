@@ -50,4 +50,5 @@ $ jobinfo -M snowy -u username
 If we want to transfer from UPPMAX to our local computer we will do something like:
 ```
 $ rsync -P username@rackham.UPPMAX.uu.se:/path/to/your/file .
+$ scp <Username>@<IPorHost>:<PathToFile>   <LocalFileLocation>
 ```
