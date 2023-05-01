@@ -19,6 +19,3 @@ OUTPUT="/domus/h1/dongx/Genome_Analysis/DNA_Assembly/Canu"
 
 #commands
 canu -p canu_assembly_output_01 -d $OUTPUT maxThreads=4 genomeSize=24.1m -pacbio-raw $INPUT
-
-
-   
