@@ -1,0 +1,95 @@
+	STAR --runThreadN 8 --runMode genomeGenerate --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --genomeFastaFiles /home/dongx/Genome_Analysis/Genome_Annotation/Repeat_Masker/pilon_polished.fasta.masked
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:02:59 ..... started STAR run
+May 11 22:02:59 ... starting to generate Genome files
+!!!!! WARNING: --genomeSAindexNbases 14 is too large for the genome size=22575774, which may cause seg-fault at the mapping step. Re-run genome generation with recommended --genomeSAindexNbases 11
+May 11 22:03:00 ... starting to sort Suffix Array. This may take a long time...
+May 11 22:03:00 ... sorting Suffix Array chunks and saving them to disk...
+May 11 22:03:07 ... loading chunks from disk, packing SA...
+May 11 22:03:08 ... finished generating suffix array
+May 11 22:03:08 ... generating Suffix Array index
+May 11 22:03:18 ... completed Suffix Array index
+May 11 22:03:18 ... writing Genome to disk ...
+May 11 22:03:18 ... writing Suffix Array to disk ...
+May 11 22:03:20 ... writing SAindex to disk
+May 11 22:03:34 ..... finished successfully
+SRR6040092
+SRR6040092_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040092_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040092_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6040092_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:03:35 ..... started STAR run
+May 11 22:03:35 ..... loading genome
+May 11 22:03:36 ..... started mapping
+May 11 22:05:29 ..... finished mapping
+May 11 22:05:29 ..... started sorting BAM
+May 11 22:05:43 ..... finished successfully
+SRR6040093
+SRR6040093_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040093_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040093_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6040093_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:05:43 ..... started STAR run
+May 11 22:05:44 ..... loading genome
+May 11 22:05:45 ..... started mapping
+May 11 22:06:39 ..... finished mapping
+May 11 22:06:39 ..... started sorting BAM
+May 11 22:06:50 ..... finished successfully
+SRR6040094
+SRR6040094_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040094_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040094_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6040094_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:06:51 ..... started STAR run
+May 11 22:06:51 ..... loading genome
+May 11 22:06:52 ..... started mapping
+May 11 22:11:30 ..... finished mapping
+May 11 22:11:31 ..... started sorting BAM
+May 11 22:12:45 ..... finished successfully
+SRR6040096
+SRR6040096_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040096_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040096_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6040096_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:12:46 ..... started STAR run
+May 11 22:12:46 ..... loading genome
+May 11 22:12:47 ..... started mapping
+May 11 22:14:10 ..... finished mapping
+May 11 22:14:11 ..... started sorting BAM
+May 11 22:14:31 ..... finished successfully
+SRR6040097
+SRR6040097_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040097_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6040097_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6040097_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:14:32 ..... started STAR run
+May 11 22:14:32 ..... loading genome
+May 11 22:14:33 ..... started mapping
+May 11 22:15:02 ..... finished mapping
+May 11 22:15:02 ..... started sorting BAM
+May 11 22:15:06 ..... finished successfully
+SRR6156066
+SRR6156066_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6156066_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6156066_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6156066_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:15:06 ..... started STAR run
+May 11 22:15:06 ..... loading genome
+May 11 22:15:07 ..... started mapping
+May 11 22:15:55 ..... finished mapping
+May 11 22:15:55 ..... started sorting BAM
+May 11 22:16:06 ..... finished successfully
+SRR6156067
+SRR6156067_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6156067_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6156067_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6156067_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:16:06 ..... started STAR run
+May 11 22:16:07 ..... loading genome
+May 11 22:16:08 ..... started mapping
+May 11 22:16:31 ..... finished mapping
+May 11 22:16:31 ..... started sorting BAM
+May 11 22:16:38 ..... finished successfully
+SRR6156069
+SRR6156069_scaffold_10.1.fastq.gz
+	STAR --runThreadN 8 --genomeDir /home/dongx/Genome_Analysis/Genome_Annotation/STAR --readFilesIn /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6156069_scaffold_10.1.fastq.gz /home/dongx/Genome_Analysis/raw_data/transcriptome/trimmed/SRR6156069_scaffold_10.2.fastq.gz --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard --outFileNamePrefix SRR6156069_10.sorted.bam
+	STAR version: 2.7.9a   compiled: 2021-10-20T18:01:41+0200 rackham5.uppmax.uu.se:/sw/bioinfo/star/2.7.9a/src/STAR-2.7.9a/source
+May 11 22:16:39 ..... started STAR run
+May 11 22:16:39 ..... loading genome
+May 11 22:16:40 ..... started mapping
+May 11 22:17:43 ..... finished mapping
+May 11 22:17:44 ..... started sorting BAM
+May 11 22:17:53 ..... finished successfully

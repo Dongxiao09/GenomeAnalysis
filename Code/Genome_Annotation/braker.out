@@ -1,0 +1,11 @@
+augustus/3.4.0 : If you see errors about not being able to write to an augustus directory, see 'module help augustus/3.4.0'
+blast/2.2.31+ : the old-format NCBI blast databases are no longer updated after September 2019, use blast/2.9.0+ to search the latest NCBI databases
+GeneMark/4.68-es : A recent key file is needed to use this software and it must exist in your home directory. See 'module help GeneMark/4.68-es'
+GeneMark/4.68-es : A recent key file is needed to use this software and it must exist in your home directory. See 'module help GeneMark/4.68-es'
+diamond_databases/latest : for available prebuilt databases, see 'module help diamond_databases/latest'
+braker/2.1.6 : GeneMark and augustus may require some setup; see 'module help braker/2.1.6'
+GeneMark/4.68-es : A recent key file is needed to use this software and it must exist in your home directory. See 'module help GeneMark/4.68-es'
+Copying Augustus config directory to current directory...adjusting permissions...updating AUGUSTUS_CONFIG_PATH...done
+export AUGUSTUS_CONFIG_PATH=/domus/h1/dongx/Genome_Analysis/Genome_Annotation/BRAKER/augustus_config
+‘/sw/bioinfo/GeneMark/keyfile/gm_key’ -> ‘/home/dongx/.gm_key’
+# Fri May 12 00:27:44 2023: Log information is stored in file /domus/h1/dongx/Genome_Analysis/Genome_Annotation/BRAKER/braker/braker.log

@@ -1,0 +1,64 @@
+eggNOG_data/5.0.0: Data available at $EGGNOG_DATA_ROOT, see 'module help eggNOG_data/5.0.0'
+[1;32mFunctional annotation of hits...[0m
+0 2.6226043701171875e-06 0.00 q/s (% mem usage: 53.00, % mem avail: 46.97)
+#  emapper-2.1.9-fac86da
+# emapper.py  -i /home/dongx/Genome_Analysis/Genome_Annotation/Repeat_Masker/pilon_polished.fasta.masked --itype genome --output functional_annotation --output_dir /home/dongx/Genome_Analysis/Genome_Annotation/Eggnog --cpu 4
+[1;33m  /sw/bioinfo/eggNOG-mapper/2.1.9/snowy/bin/diamond blastx -d /crex/data/eggNOG_data/5.0.0/rackham/eggnog_proteins.dmnd -q /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Repeat_Masker/pilon_polished.fasta.masked --threads 4 -o /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.hits --tmpdir /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/emappertmp_dmdn_15i04nso --sensitive --iterate -e 0.001 --max-target-seqs 0 --max-hsps 0  --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovhsp scovhsp[0m
+[1;32mCrafting GFF file of CDS ...[0m
+[1;32mCrafting fasta file of CDS ...[0m
+Parsing fasta file /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Repeat_Masker/pilon_polished.fasta.masked...
+Fasta file /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Repeat_Masker/pilon_polished.fasta.masked parsing complete.
+[1;32mCreating gff file /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.genepred.gff...[0m
+500 267.6416037082672 1.87 q/s (% mem usage: 54.30, % mem avail: 45.75)
+1000 282.8260385990143 3.54 q/s (% mem usage: 54.40, % mem avail: 45.63)
+1500 303.256245136261 4.95 q/s (% mem usage: 55.50, % mem avail: 44.50)
+2000 316.04243421554565 6.33 q/s (% mem usage: 55.60, % mem avail: 44.40)
+2500 322.4502696990967 7.75 q/s (% mem usage: 55.70, % mem avail: 44.30)
+3000 331.3232922554016 9.05 q/s (% mem usage: 55.80, % mem avail: 44.25)
+3500 340.429545879364 10.28 q/s (% mem usage: 55.80, % mem avail: 44.21)
+4000 347.4226188659668 11.51 q/s (% mem usage: 55.90, % mem avail: 44.11)
+4500 353.9532120227814 12.71 q/s (% mem usage: 55.90, % mem avail: 44.09)
+5000 359.9458348751068 13.89 q/s (% mem usage: 55.90, % mem avail: 44.07)
+5500 366.8625679016113 14.99 q/s (% mem usage: 56.00, % mem avail: 44.04)
+6000 370.07593059539795 16.21 q/s (% mem usage: 56.00, % mem avail: 44.04)
+6500 378.91353392601013 17.15 q/s (% mem usage: 56.10, % mem avail: 43.92)
+7000 382.741099357605 18.29 q/s (% mem usage: 56.10, % mem avail: 43.92)
+7500 388.6679151058197 19.30 q/s (% mem usage: 56.10, % mem avail: 43.92)
+7578 389.4239673614502 19.46 q/s (% mem usage: 56.00, % mem avail: 43.99)
+[32mDone[0m
+[1;33mResult files:[0m
+   /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.genepred.fasta
+   /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.genepred.gff
+   /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.hits
+   /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.seed_orthologs
+   /domus/h1/dongx/Genome_Analysis/Genome_Annotation/Eggnog/functional_annotation.emapper.annotations
+
+================================================================================
+CITATION:
+If you use this software, please cite:
+
+[1] eggNOG-mapper v2: functional annotation, orthology assignments, and domain 
+      prediction at the metagenomic scale. Carlos P. Cantalapiedra, 
+      Ana Hernandez-Plaza, Ivica Letunic, Peer Bork, Jaime Huerta-Cepas. 2021.
+      Molecular Biology and Evolution, msab293, https://doi.org/10.1093/molbev/msab293
+
+[2] eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated
+      orthology resource based on 5090 organisms and 2502 viruses. Jaime
+      Huerta-Cepas, Damian Szklarczyk, Davide Heller, Ana Hernandez-Plaza,
+      Sofia K Forslund, Helen Cook, Daniel R Mende, Ivica Letunic, Thomas
+      Rattei, Lars J Jensen, Christian von Mering and Peer Bork. Nucleic Acids
+      Research, Volume 47, Issue D1, 8 January 2019, Pages D309-D314,
+      https://doi.org/10.1093/nar/gky1085 
+
+[3] Sensitive protein alignments at tree-of-life scale using DIAMOND.
+       Buchfink B, Reuter K, Drost HG. 2021.
+       Nature Methods 18, 366–368 (2021). https://doi.org/10.1038/s41592-021-01101-x
+
+e.g. Functional annotation was performed using eggNOG-mapper (version emapper-2.1.9-fac86da) [1]
+ based on eggNOG orthology data [2]. Sequence searches were performed using [3].
+
+================================================================================
+
+Total hits processed: 7578
+Total time: 12884 secs
+FINISHED
