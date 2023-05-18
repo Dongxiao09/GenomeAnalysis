@@ -1,0 +1,2177 @@
+Usage: java -jar $PILON_HOME/pilon.jar other-options...
+Pilon version 1.24 Thu Jan 28 13:00:45 2021 -0500
+Genome: contigs.reduced.fa
+Fixing snps, indels, gaps, local
+Input genome size: 22575774
+Scanning BAMs
+aln-pe.sorted.bam: 9974675 reads, 0 filtered, 9254618 mapped, 0 proper, 8725202 stray, max 500
+Processing tig00001328:1-8576
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 220, Coverage: 0, minDepth: 5
+Confirmed 0 of 8576 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001328:1-8576 log:
+Finished processing tig00001328:1-8576
+Processing tig00000773:1-7876
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 165, Coverage: 0, minDepth: 5
+Confirmed 0 of 7876 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000773:1-7876 log:
+Finished processing tig00000773:1-7876
+Processing tig00000067:1-37227
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 6501, Coverage: 0, minDepth: 5
+Confirmed 0 of 37227 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000067:1-37227 log:
+Finished processing tig00000067:1-37227
+Processing tig00000069:1-976490
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 254780, Coverage: 0, minDepth: 5
+Confirmed 0 of 976490 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000069:1-976490 log:
+Finished processing tig00000069:1-976490
+Processing tig00000261:1-56920
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 34258, Coverage: 0, minDepth: 5
+Confirmed 0 of 56920 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000261:1-56920 log:
+Finished processing tig00000261:1-56920
+Processing tig00000260:1-86244
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 16721, Coverage: 0, minDepth: 5
+Confirmed 0 of 86244 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000260:1-86244 log:
+Finished processing tig00000260:1-86244
+Processing tig00000265:1-68903
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 16332, Coverage: 0, minDepth: 5
+Confirmed 0 of 68903 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000265:1-68903 log:
+Finished processing tig00000265:1-68903
+Processing tig00000264:1-56356
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1247750, Coverage: 0, minDepth: 5
+Confirmed 0 of 56356 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000264:1-56356 log:
+Finished processing tig00000264:1-56356
+Processing tig00001048:1-9658
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 191, Coverage: 0, minDepth: 5
+Confirmed 0 of 9658 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001048:1-9658 log:
+Finished processing tig00001048:1-9658
+Processing tig00001049:1-16304
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 291, Coverage: 0, minDepth: 5
+Confirmed 0 of 16304 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001049:1-16304 log:
+Finished processing tig00001049:1-16304
+Processing tig00000084:1-43236
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 8858, Coverage: 0, minDepth: 5
+Confirmed 0 of 43236 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000084:1-43236 log:
+Finished processing tig00000084:1-43236
+Processing tig00000365:1-24516
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2445, Coverage: 0, minDepth: 5
+Confirmed 0 of 24516 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000365:1-24516 log:
+Finished processing tig00000365:1-24516
+Processing tig00000363:1-9954
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1325, Coverage: 0, minDepth: 5
+Confirmed 0 of 9954 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000363:1-9954 log:
+Finished processing tig00000363:1-9954
+Processing tig00000360:1-20589
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1697, Coverage: 0, minDepth: 5
+Confirmed 0 of 20589 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000360:1-20589 log:
+Finished processing tig00000360:1-20589
+Processing tig00000361:1-13977
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 191, Coverage: 0, minDepth: 5
+Confirmed 0 of 13977 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000361:1-13977 log:
+Finished processing tig00000361:1-13977
+Processing tig00000407:1-13976
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 279, Coverage: 0, minDepth: 5
+Confirmed 0 of 13976 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000407:1-13976 log:
+Finished processing tig00000407:1-13976
+Processing tig00000406:1-17286
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 753, Coverage: 0, minDepth: 5
+Confirmed 0 of 17286 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000406:1-17286 log:
+Finished processing tig00000406:1-17286
+Processing tig00000404:1-10321
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1733, Coverage: 0, minDepth: 5
+Confirmed 0 of 10321 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000404:1-10321 log:
+Finished processing tig00000404:1-10321
+Processing tig00000560:1-9369
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 560, Coverage: 0, minDepth: 5
+Confirmed 0 of 9369 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000560:1-9369 log:
+Finished processing tig00000560:1-9369
+Processing tig00000561:1-14691
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 384, Coverage: 0, minDepth: 5
+Confirmed 0 of 14691 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000561:1-14691 log:
+Finished processing tig00000561:1-14691
+Processing tig00000886:1-7488
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 328, Coverage: 0, minDepth: 5
+Confirmed 0 of 7488 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000886:1-7488 log:
+Finished processing tig00000886:1-7488
+Processing tig00000961:1-21271
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 7872, Coverage: 0, minDepth: 5
+Confirmed 0 of 21271 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000961:1-21271 log:
+Finished processing tig00000961:1-21271
+Processing tig00000316:1-35582
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 7318, Coverage: 0, minDepth: 5
+Confirmed 0 of 35582 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000316:1-35582 log:
+Finished processing tig00000316:1-35582
+Processing tig00000810:1-8739
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 446, Coverage: 0, minDepth: 5
+Confirmed 0 of 8739 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000810:1-8739 log:
+Finished processing tig00000810:1-8739
+Processing tig00000147:1-34602
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 7686, Coverage: 0, minDepth: 5
+Confirmed 0 of 34602 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000147:1-34602 log:
+Finished processing tig00000147:1-34602
+Processing tig00000145:1-47454
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 11830, Coverage: 0, minDepth: 5
+Confirmed 0 of 47454 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000145:1-47454 log:
+Finished processing tig00000145:1-47454
+Processing tig00000143:1-14198
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1294, Coverage: 0, minDepth: 5
+Confirmed 0 of 14198 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000143:1-14198 log:
+Finished processing tig00000143:1-14198
+Processing tig00000639:1-17603
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 729, Coverage: 0, minDepth: 5
+Confirmed 0 of 17603 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000639:1-17603 log:
+Finished processing tig00000639:1-17603
+Processing tig00000221:1-236299
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 65152, Coverage: 0, minDepth: 5
+Confirmed 0 of 236299 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000221:1-236299 log:
+Finished processing tig00000221:1-236299
+Processing tig00000220:1-21517
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5318, Coverage: 0, minDepth: 5
+Confirmed 0 of 21517 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000220:1-21517 log:
+Finished processing tig00000220:1-21517
+Processing tig00001314:1-5722
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 436, Coverage: 0, minDepth: 5
+Confirmed 0 of 5722 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001314:1-5722 log:
+Finished processing tig00001314:1-5722
+Processing tig00001315:1-7472
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 230, Coverage: 0, minDepth: 5
+Confirmed 0 of 7472 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001315:1-7472 log:
+Finished processing tig00001315:1-7472
+Processing tig00001316:1-5492
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 234, Coverage: 0, minDepth: 5
+Confirmed 0 of 5492 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001316:1-5492 log:
+Finished processing tig00001316:1-5492
+Processing tig00001317:1-9890
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 606, Coverage: 0, minDepth: 5
+Confirmed 0 of 9890 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001317:1-9890 log:
+Finished processing tig00001317:1-9890
+Processing tig00001040:1-4007
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 146, Coverage: 0, minDepth: 5
+Confirmed 0 of 4007 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001040:1-4007 log:
+Finished processing tig00001040:1-4007
+Processing tig00000623:1-7156
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 396, Coverage: 0, minDepth: 5
+Confirmed 0 of 7156 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000623:1-7156 log:
+Finished processing tig00000623:1-7156
+Processing tig00000036:1-1122136
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 283681, Coverage: 0, minDepth: 5
+Confirmed 0 of 1122136 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000036:1-1122136 log:
+Finished processing tig00000036:1-1122136
+Processing tig00000523:1-11651
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 738, Coverage: 0, minDepth: 5
+Confirmed 0 of 11651 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000523:1-11651 log:
+Finished processing tig00000523:1-11651
+Processing tig00001034:1-5360
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 165, Coverage: 0, minDepth: 5
+Confirmed 0 of 5360 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001034:1-5360 log:
+Finished processing tig00001034:1-5360
+Processing tig00000529:1-9048
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1451, Coverage: 0, minDepth: 5
+Confirmed 0 of 9048 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000529:1-9048 log:
+Finished processing tig00000529:1-9048
+Processing tig00001303:1-4166
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3956, Coverage: 0, minDepth: 5
+Confirmed 0 of 4166 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001303:1-4166 log:
+Finished processing tig00001303:1-4166
+Processing tig00000356:1-17348
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 572, Coverage: 0, minDepth: 5
+Confirmed 0 of 17348 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000356:1-17348 log:
+Finished processing tig00000356:1-17348
+Processing tig00000355:1-14644
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 723, Coverage: 0, minDepth: 5
+Confirmed 0 of 14644 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000355:1-14644 log:
+Finished processing tig00000355:1-14644
+Processing tig00000352:1-13620
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 198, Coverage: 0, minDepth: 5
+Confirmed 0 of 13620 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000352:1-13620 log:
+Finished processing tig00000352:1-13620
+Processing tig00000358:1-18558
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 6087, Coverage: 0, minDepth: 5
+Confirmed 0 of 18558 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000358:1-18558 log:
+Finished processing tig00000358:1-18558
+Processing tig00000753:1-5466
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 208, Coverage: 0, minDepth: 5
+Confirmed 0 of 5466 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000753:1-5466 log:
+Finished processing tig00000753:1-5466
+Processing tig00000752:1-4826
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 26, Coverage: 0, minDepth: 5
+Confirmed 0 of 4826 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000752:1-4826 log:
+Finished processing tig00000752:1-4826
+Processing tig00000751:1-9635
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 326, Coverage: 0, minDepth: 5
+Confirmed 0 of 9635 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000751:1-9635 log:
+Finished processing tig00000751:1-9635
+Processing tig00000919:1-7851
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 363, Coverage: 0, minDepth: 5
+Confirmed 0 of 7851 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000919:1-7851 log:
+Finished processing tig00000919:1-7851
+Processing tig00000910:1-5448
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 253, Coverage: 0, minDepth: 5
+Confirmed 0 of 5448 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000910:1-5448 log:
+Finished processing tig00000910:1-5448
+Processing tig00001282:1-7007
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 414, Coverage: 0, minDepth: 5
+Confirmed 0 of 7007 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001282:1-7007 log:
+Finished processing tig00001282:1-7007
+Processing tig00001281:1-17370
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 897, Coverage: 0, minDepth: 5
+Confirmed 0 of 17370 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001281:1-17370 log:
+Finished processing tig00001281:1-17370
+Processing tig00000357:1-14278
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 784, Coverage: 0, minDepth: 5
+Confirmed 0 of 14278 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000357:1-14278 log:
+Finished processing tig00000357:1-14278
+Processing tig00000771:1-12052
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2504, Coverage: 0, minDepth: 5
+Confirmed 0 of 12052 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000771:1-12052 log:
+Finished processing tig00000771:1-12052
+Processing tig00000779:1-5884
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 215, Coverage: 0, minDepth: 5
+Confirmed 0 of 5884 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000779:1-5884 log:
+Finished processing tig00000779:1-5884
+Processing tig00001351:1-10459
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 582, Coverage: 0, minDepth: 5
+Confirmed 0 of 10459 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001351:1-10459 log:
+Finished processing tig00001351:1-10459
+Processing tig00001352:1-9779
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 151, Coverage: 0, minDepth: 5
+Confirmed 0 of 9779 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001352:1-9779 log:
+Finished processing tig00001352:1-9779
+Processing tig00001353:1-10033
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 89, Coverage: 0, minDepth: 5
+Confirmed 0 of 10033 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001353:1-10033 log:
+Finished processing tig00001353:1-10033
+Processing tig00001213:1-8515
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 507, Coverage: 0, minDepth: 5
+Confirmed 0 of 8515 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001213:1-8515 log:
+Finished processing tig00001213:1-8515
+Processing tig00000487:1-10271
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 591, Coverage: 0, minDepth: 5
+Confirmed 0 of 10271 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000487:1-10271 log:
+Finished processing tig00000487:1-10271
+Processing tig00000485:1-13287
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3887, Coverage: 0, minDepth: 5
+Confirmed 0 of 13287 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000485:1-13287 log:
+Finished processing tig00000485:1-13287
+Processing tig00000484:1-14111
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 4576, Coverage: 0, minDepth: 5
+Confirmed 0 of 14111 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000484:1-14111 log:
+Finished processing tig00000484:1-14111
+Processing tig00000482:1-11190
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 798, Coverage: 0, minDepth: 5
+Confirmed 0 of 11190 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000482:1-11190 log:
+Finished processing tig00000482:1-11190
+Processing tig00000481:1-13916
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 139, Coverage: 0, minDepth: 5
+Confirmed 0 of 13916 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000481:1-13916 log:
+Finished processing tig00000481:1-13916
+Processing tig00000480:1-10089
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 4853, Coverage: 0, minDepth: 5
+Confirmed 0 of 10089 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000480:1-10089 log:
+Finished processing tig00000480:1-10089
+Processing tig00000076:1-880647
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 249579, Coverage: 0, minDepth: 5
+Confirmed 0 of 880647 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000076:1-880647 log:
+Finished processing tig00000076:1-880647
+Processing tig00000075:1-35718
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 6893, Coverage: 0, minDepth: 5
+Confirmed 0 of 35718 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000075:1-35718 log:
+Finished processing tig00000075:1-35718
+Processing tig00000270:1-68018
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 16300, Coverage: 0, minDepth: 5
+Confirmed 0 of 68018 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000270:1-68018 log:
+Finished processing tig00000270:1-68018
+Processing tig00000277:1-13825
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5387, Coverage: 0, minDepth: 5
+Confirmed 0 of 13825 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000277:1-13825 log:
+Finished processing tig00000277:1-13825
+Processing tig00000279:1-28148
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 9618, Coverage: 0, minDepth: 5
+Confirmed 0 of 28148 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000279:1-28148 log:
+Finished processing tig00000279:1-28148
+Processing tig00000098:1-47003
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 9992, Coverage: 0, minDepth: 5
+Confirmed 0 of 47003 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000098:1-47003 log:
+Finished processing tig00000098:1-47003
+Processing tig00000096:1-754390
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 224647, Coverage: 0, minDepth: 5
+Confirmed 0 of 754390 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000096:1-754390 log:
+Finished processing tig00000096:1-754390
+Processing tig00000393:1-13314
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 922, Coverage: 0, minDepth: 5
+Confirmed 0 of 13314 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000393:1-13314 log:
+Finished processing tig00000393:1-13314
+Processing tig00000392:1-10909
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 655, Coverage: 0, minDepth: 5
+Confirmed 0 of 10909 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000392:1-10909 log:
+Finished processing tig00000392:1-10909
+Processing tig00000391:1-13664
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3026, Coverage: 0, minDepth: 5
+Confirmed 0 of 13664 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000391:1-13664 log:
+Finished processing tig00000391:1-13664
+Processing tig00000390:1-11809
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1033, Coverage: 0, minDepth: 5
+Confirmed 0 of 11809 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000390:1-11809 log:
+Finished processing tig00000390:1-11809
+Processing tig00000399:1-12509
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 257, Coverage: 0, minDepth: 5
+Confirmed 0 of 12509 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000399:1-12509 log:
+Finished processing tig00000399:1-12509
+Processing tig00000398:1-20372
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 6056, Coverage: 0, minDepth: 5
+Confirmed 0 of 20372 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000398:1-20372 log:
+Finished processing tig00000398:1-20372
+Processing tig00000416:1-12855
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 335, Coverage: 0, minDepth: 5
+Confirmed 0 of 12855 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000416:1-12855 log:
+Finished processing tig00000416:1-12855
+Processing tig00000412:1-18540
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 747, Coverage: 0, minDepth: 5
+Confirmed 0 of 18540 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000412:1-18540 log:
+Finished processing tig00000412:1-18540
+Processing tig00000553:1-9514
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 575, Coverage: 0, minDepth: 5
+Confirmed 0 of 9514 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000553:1-9514 log:
+Finished processing tig00000553:1-9514
+Processing tig00000894:1-6879
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 158, Coverage: 0, minDepth: 5
+Confirmed 0 of 6879 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000894:1-6879 log:
+Finished processing tig00000894:1-6879
+Processing tig00000954:1-5789
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 261, Coverage: 0, minDepth: 5
+Confirmed 0 of 5789 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000954:1-5789 log:
+Finished processing tig00000954:1-5789
+Processing tig00000749:1-10912
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 285, Coverage: 0, minDepth: 5
+Confirmed 0 of 10912 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000749:1-10912 log:
+Finished processing tig00000749:1-10912
+Processing tig00002288:1-480279
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 194082, Coverage: 0, minDepth: 5
+Confirmed 0 of 480279 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002288:1-480279 log:
+Finished processing tig00002288:1-480279
+Processing tig00002280:1-459313
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 106219, Coverage: 0, minDepth: 5
+Confirmed 0 of 459313 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002280:1-459313 log:
+Finished processing tig00002280:1-459313
+Processing tig00000300:1-17271
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1550, Coverage: 0, minDepth: 5
+Confirmed 0 of 17271 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000300:1-17271 log:
+Finished processing tig00000300:1-17271
+Processing tig00000301:1-14926
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2017, Coverage: 0, minDepth: 5
+Confirmed 0 of 14926 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000301:1-14926 log:
+Finished processing tig00000301:1-14926
+Processing tig00000302:1-26691
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 36099, Coverage: 0, minDepth: 5
+Confirmed 0 of 26691 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000302:1-26691 log:
+Finished processing tig00000302:1-26691
+Processing tig00000303:1-21923
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 228779, Coverage: 0, minDepth: 5
+Confirmed 0 of 21923 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000303:1-21923 log:
+Finished processing tig00000303:1-21923
+Processing tig00000304:1-12329
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2331, Coverage: 0, minDepth: 5
+Confirmed 0 of 12329 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000304:1-12329 log:
+Finished processing tig00000304:1-12329
+Processing tig00000305:1-16295
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 623, Coverage: 0, minDepth: 5
+Confirmed 0 of 16295 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000305:1-16295 log:
+Finished processing tig00000305:1-16295
+Processing tig00000306:1-34122
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 9791, Coverage: 0, minDepth: 5
+Confirmed 0 of 34122 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000306:1-34122 log:
+Finished processing tig00000306:1-34122
+Processing tig00000307:1-28630
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 6322, Coverage: 0, minDepth: 5
+Confirmed 0 of 28630 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000307:1-28630 log:
+Finished processing tig00000307:1-28630
+Processing tig00000733:1-20112
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3897, Coverage: 0, minDepth: 5
+Confirmed 0 of 20112 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000733:1-20112 log:
+Finished processing tig00000733:1-20112
+Processing tig00000732:1-10103
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 212, Coverage: 0, minDepth: 5
+Confirmed 0 of 10103 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000732:1-10103 log:
+Finished processing tig00000732:1-10103
+Processing tig00000734:1-23114
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5595, Coverage: 0, minDepth: 5
+Confirmed 0 of 23114 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000734:1-23114 log:
+Finished processing tig00000734:1-23114
+Processing tig00000826:1-5882
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 184, Coverage: 0, minDepth: 5
+Confirmed 0 of 5882 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000826:1-5882 log:
+Finished processing tig00000826:1-5882
+Processing tig00001008:1-8490
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 505, Coverage: 0, minDepth: 5
+Confirmed 0 of 8490 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001008:1-8490 log:
+Finished processing tig00001008:1-8490
+Processing tig00001253:1-5202
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 411, Coverage: 0, minDepth: 5
+Confirmed 0 of 5202 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001253:1-5202 log:
+Finished processing tig00001253:1-5202
+Processing tig00001254:1-8462
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 337, Coverage: 0, minDepth: 5
+Confirmed 0 of 8462 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001254:1-8462 log:
+Finished processing tig00001254:1-8462
+Processing tig00001259:1-4103
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 365, Coverage: 0, minDepth: 5
+Confirmed 0 of 4103 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001259:1-4103 log:
+Finished processing tig00001259:1-4103
+Processing tig00000535:1-6904
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 65, Coverage: 0, minDepth: 5
+Confirmed 0 of 6904 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000535:1-6904 log:
+Finished processing tig00000535:1-6904
+Processing tig00000527:1-13107
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 125, Coverage: 0, minDepth: 5
+Confirmed 0 of 13107 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000527:1-13107 log:
+Finished processing tig00000527:1-13107
+Processing tig00001025:1-16959
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 928, Coverage: 0, minDepth: 5
+Confirmed 0 of 16959 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001025:1-16959 log:
+Finished processing tig00001025:1-16959
+Processing tig00000607:1-7630
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 91, Coverage: 0, minDepth: 5
+Confirmed 0 of 7630 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000607:1-7630 log:
+Finished processing tig00000607:1-7630
+Processing tig00000606:1-12272
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 687, Coverage: 0, minDepth: 5
+Confirmed 0 of 12272 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000606:1-12272 log:
+Finished processing tig00000606:1-12272
+Processing tig00000238:1-129199
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 31499, Coverage: 0, minDepth: 5
+Confirmed 0 of 129199 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000238:1-129199 log:
+Finished processing tig00000238:1-129199
+Processing tig00000600:1-3462
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 51, Coverage: 0, minDepth: 5
+Confirmed 0 of 3462 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000600:1-3462 log:
+Finished processing tig00000600:1-3462
+Processing tig00000602:1-3938
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 170, Coverage: 0, minDepth: 5
+Confirmed 0 of 3938 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000602:1-3938 log:
+Finished processing tig00000602:1-3938
+Processing tig00000234:1-192556
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 43900, Coverage: 0, minDepth: 5
+Confirmed 0 of 192556 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000234:1-192556 log:
+Finished processing tig00000234:1-192556
+Processing tig00000231:1-164258
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 43456, Coverage: 0, minDepth: 5
+Confirmed 0 of 164258 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000231:1-164258 log:
+Finished processing tig00000231:1-164258
+Processing tig00000504:1-11307
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 745, Coverage: 0, minDepth: 5
+Confirmed 0 of 11307 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000504:1-11307 log:
+Finished processing tig00000504:1-11307
+Processing tig00000193:1-264725
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 60783, Coverage: 0, minDepth: 5
+Confirmed 0 of 264725 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000193:1-264725 log:
+Finished processing tig00000193:1-264725
+Processing tig00000500:1-25503
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1596, Coverage: 0, minDepth: 5
+Confirmed 0 of 25503 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000500:1-25503 log:
+Finished processing tig00000500:1-25503
+Processing tig00000501:1-3945
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1126, Coverage: 0, minDepth: 5
+Confirmed 0 of 3945 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000501:1-3945 log:
+Finished processing tig00000501:1-3945
+Processing tig00000046:1-1142121
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 357643, Coverage: 0, minDepth: 5
+Confirmed 0 of 1142121 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000046:1-1142121 log:
+Finished processing tig00000046:1-1142121
+Processing tig00000122:1-632410
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1316563, Coverage: 0, minDepth: 5
+Confirmed 0 of 632410 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000122:1-632410 log:
+Finished processing tig00000122:1-632410
+Processing tig00000123:1-573556
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 142449, Coverage: 0, minDepth: 5
+Confirmed 0 of 573556 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000123:1-573556 log:
+Finished processing tig00000123:1-573556
+Processing tig00000694:1-9070
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 4163, Coverage: 0, minDepth: 5
+Confirmed 0 of 9070 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000694:1-9070 log:
+Finished processing tig00000694:1-9070
+Processing tig00000286:1-29471
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 32622, Coverage: 0, minDepth: 5
+Confirmed 0 of 29471 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000286:1-29471 log:
+Finished processing tig00000286:1-29471
+Processing tig00000995:1-8213
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2957, Coverage: 0, minDepth: 5
+Confirmed 0 of 8213 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000995:1-8213 log:
+Finished processing tig00000995:1-8213
+Processing tig00000993:1-1326
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 8, Coverage: 0, minDepth: 5
+Confirmed 0 of 1326 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000993:1-1326 log:
+Finished processing tig00000993:1-1326
+Processing tig00000992:1-8099
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 232, Coverage: 0, minDepth: 5
+Confirmed 0 of 8099 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000992:1-8099 log:
+Finished processing tig00000992:1-8099
+Processing tig00000998:1-8444
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1212, Coverage: 0, minDepth: 5
+Confirmed 0 of 8444 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000998:1-8444 log:
+Finished processing tig00000998:1-8444
+Processing tig00000345:1-16430
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 538, Coverage: 0, minDepth: 5
+Confirmed 0 of 16430 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000345:1-16430 log:
+Finished processing tig00000345:1-16430
+Processing tig00000346:1-15608
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1231, Coverage: 0, minDepth: 5
+Confirmed 0 of 15608 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000346:1-15608 log:
+Finished processing tig00000346:1-15608
+Processing tig00000340:1-18887
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1727, Coverage: 0, minDepth: 5
+Confirmed 0 of 18887 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000340:1-18887 log:
+Finished processing tig00000340:1-18887
+Processing tig00000342:1-18519
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3834, Coverage: 0, minDepth: 5
+Confirmed 0 of 18519 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000342:1-18519 log:
+Finished processing tig00000342:1-18519
+Processing tig00000343:1-12333
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 724, Coverage: 0, minDepth: 5
+Confirmed 0 of 12333 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000343:1-12333 log:
+Finished processing tig00000343:1-12333
+Processing tig00000348:1-19815
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5423, Coverage: 0, minDepth: 5
+Confirmed 0 of 19815 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000348:1-19815 log:
+Finished processing tig00000348:1-19815
+Processing tig00000869:1-15541
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 21367, Coverage: 0, minDepth: 5
+Confirmed 0 of 15541 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000869:1-15541 log:
+Finished processing tig00000869:1-15541
+Processing tig00000793:1-8117
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1511, Coverage: 0, minDepth: 5
+Confirmed 0 of 8117 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000793:1-8117 log:
+Finished processing tig00000793:1-8117
+Processing tig00000641:1-7302
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 103, Coverage: 0, minDepth: 5
+Confirmed 0 of 7302 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000641:1-7302 log:
+Finished processing tig00000641:1-7302
+Processing tig00000643:1-11429
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 250, Coverage: 0, minDepth: 5
+Confirmed 0 of 11429 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000643:1-11429 log:
+Finished processing tig00000643:1-11429
+Processing tig00000769:1-11422
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 399, Coverage: 0, minDepth: 5
+Confirmed 0 of 11422 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000769:1-11422 log:
+Finished processing tig00000769:1-11422
+Processing tig00000645:1-10806
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 76, Coverage: 0, minDepth: 5
+Confirmed 0 of 10806 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000645:1-10806 log:
+Finished processing tig00000645:1-10806
+Processing tig00000649:1-2331
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 118543, Coverage: 0, minDepth: 5
+Confirmed 0 of 2331 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000649:1-2331 log:
+Finished processing tig00000649:1-2331
+Processing tig00000760:1-5901
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 261, Coverage: 0, minDepth: 5
+Confirmed 0 of 5901 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000760:1-5901 log:
+Finished processing tig00000760:1-5901
+Processing tig00000766:1-8766
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3059, Coverage: 0, minDepth: 5
+Confirmed 0 of 8766 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000766:1-8766 log:
+Finished processing tig00000766:1-8766
+Processing tig00001367:1-5118
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 89, Coverage: 0, minDepth: 5
+Confirmed 0 of 5118 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001367:1-5118 log:
+Finished processing tig00001367:1-5118
+Processing tig00001366:1-7243
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 460, Coverage: 0, minDepth: 5
+Confirmed 0 of 7243 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001366:1-7243 log:
+Finished processing tig00001366:1-7243
+Processing tig00002265:1-1206584
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1086666, Coverage: 0, minDepth: 5
+Confirmed 0 of 1206584 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002265:1-1206584 log:
+Finished processing tig00002265:1-1206584
+Processing tig00002264:1-3000045
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 968052, Coverage: 0, minDepth: 5
+Confirmed 0 of 3000045 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002264:1-3000045 log:
+Finished processing tig00002264:1-3000045
+Processing tig00002266:1-759931
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 234692, Coverage: 0, minDepth: 5
+Confirmed 0 of 759931 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002266:1-759931 log:
+Finished processing tig00002266:1-759931
+Processing tig00002262:1-193884
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 52562, Coverage: 0, minDepth: 5
+Confirmed 0 of 193884 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002262:1-193884 log:
+Finished processing tig00002262:1-193884
+Processing tig00000608:1-7350
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 383, Coverage: 0, minDepth: 5
+Confirmed 0 of 7350 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000608:1-7350 log:
+Finished processing tig00000608:1-7350
+Processing tig00000498:1-9936
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 483, Coverage: 0, minDepth: 5
+Confirmed 0 of 9936 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000498:1-9936 log:
+Finished processing tig00000498:1-9936
+Processing tig00000359:1-14659
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 785, Coverage: 0, minDepth: 5
+Confirmed 0 of 14659 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000359:1-14659 log:
+Finished processing tig00000359:1-14659
+Processing tig00000494:1-12109
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 519, Coverage: 0, minDepth: 5
+Confirmed 0 of 12109 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000494:1-12109 log:
+Finished processing tig00000494:1-12109
+Processing tig00000496:1-16343
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 215, Coverage: 0, minDepth: 5
+Confirmed 0 of 16343 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000496:1-16343 log:
+Finished processing tig00000496:1-16343
+Processing tig00000497:1-8335
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 247, Coverage: 0, minDepth: 5
+Confirmed 0 of 8335 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000497:1-8335 log:
+Finished processing tig00000497:1-8335
+Processing tig00000490:1-2137
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 76, Coverage: 0, minDepth: 5
+Confirmed 0 of 2137 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000490:1-2137 log:
+Finished processing tig00000490:1-2137
+Processing tig00000492:1-12180
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 524, Coverage: 0, minDepth: 5
+Confirmed 0 of 12180 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000492:1-12180 log:
+Finished processing tig00000492:1-12180
+Processing tig00000160:1-93839
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 25152, Coverage: 0, minDepth: 5
+Confirmed 0 of 93839 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000160:1-93839 log:
+Finished processing tig00000160:1-93839
+Processing tig00000243:1-100185
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 19602, Coverage: 0, minDepth: 5
+Confirmed 0 of 100185 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000243:1-100185 log:
+Finished processing tig00000243:1-100185
+Processing tig00000249:1-99664
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 30378, Coverage: 0, minDepth: 5
+Confirmed 0 of 99664 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000249:1-99664 log:
+Finished processing tig00000249:1-99664
+Processing tig00000328:1-14282
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1044, Coverage: 0, minDepth: 5
+Confirmed 0 of 14282 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000328:1-14282 log:
+Finished processing tig00000328:1-14282
+Processing tig00000429:1-13161
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 666, Coverage: 0, minDepth: 5
+Confirmed 0 of 13161 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000429:1-13161 log:
+Finished processing tig00000429:1-13161
+Processing tig00000428:1-24000
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2645, Coverage: 0, minDepth: 5
+Confirmed 0 of 24000 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000428:1-24000 log:
+Finished processing tig00000428:1-24000
+Processing tig00000384:1-23658
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 15447, Coverage: 0, minDepth: 5
+Confirmed 0 of 23658 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000384:1-23658 log:
+Finished processing tig00000384:1-23658
+Processing tig00000388:1-18858
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 14594, Coverage: 0, minDepth: 5
+Confirmed 0 of 18858 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000388:1-18858 log:
+Finished processing tig00000388:1-18858
+Processing tig00000389:1-10240
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 250, Coverage: 0, minDepth: 5
+Confirmed 0 of 10240 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000389:1-10240 log:
+Finished processing tig00000389:1-10240
+Processing tig00000423:1-6254
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 392, Coverage: 0, minDepth: 5
+Confirmed 0 of 6254 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000423:1-6254 log:
+Finished processing tig00000423:1-6254
+Processing tig00000422:1-10095
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 304, Coverage: 0, minDepth: 5
+Confirmed 0 of 10095 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000422:1-10095 log:
+Finished processing tig00000422:1-10095
+Processing tig00000425:1-12564
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 995, Coverage: 0, minDepth: 5
+Confirmed 0 of 12564 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000425:1-12564 log:
+Finished processing tig00000425:1-12564
+Processing tig00000424:1-14687
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1142, Coverage: 0, minDepth: 5
+Confirmed 0 of 14687 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000424:1-14687 log:
+Finished processing tig00000424:1-14687
+Processing tig00000427:1-12237
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 759, Coverage: 0, minDepth: 5
+Confirmed 0 of 12237 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000427:1-12237 log:
+Finished processing tig00000427:1-12237
+Processing tig00000426:1-22882
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2541, Coverage: 0, minDepth: 5
+Confirmed 0 of 22882 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000426:1-22882 log:
+Finished processing tig00000426:1-22882
+Processing tig00000013:1-1505244
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 363839, Coverage: 0, minDepth: 5
+Confirmed 0 of 1505244 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000013:1-1505244 log:
+Finished processing tig00000013:1-1505244
+Processing tig00001015:1-6968
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 217, Coverage: 0, minDepth: 5
+Confirmed 0 of 6968 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001015:1-6968 log:
+Finished processing tig00001015:1-6968
+Processing tig00000947:1-6929
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 345, Coverage: 0, minDepth: 5
+Confirmed 0 of 6929 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000947:1-6929 log:
+Finished processing tig00000947:1-6929
+Processing tig00000940:1-7519
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 370, Coverage: 0, minDepth: 5
+Confirmed 0 of 7519 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000940:1-7519 log:
+Finished processing tig00000940:1-7519
+Processing tig00002293:1-342987
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 100655, Coverage: 0, minDepth: 5
+Confirmed 0 of 342987 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002293:1-342987 log:
+Finished processing tig00002293:1-342987
+Processing tig00000815:1-5081
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 158, Coverage: 0, minDepth: 5
+Confirmed 0 of 5081 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000815:1-5081 log:
+Finished processing tig00000815:1-5081
+Processing tig00000578:1-6630
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 392, Coverage: 0, minDepth: 5
+Confirmed 0 of 6630 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000578:1-6630 log:
+Finished processing tig00000578:1-6630
+Processing tig00000336:1-13461
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 484, Coverage: 0, minDepth: 5
+Confirmed 0 of 13461 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000336:1-13461 log:
+Finished processing tig00000336:1-13461
+Processing tig00000333:1-23633
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1721, Coverage: 0, minDepth: 5
+Confirmed 0 of 23633 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000333:1-23633 log:
+Finished processing tig00000333:1-23633
+Processing tig00000332:1-15677
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 697, Coverage: 0, minDepth: 5
+Confirmed 0 of 15677 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000332:1-15677 log:
+Finished processing tig00000332:1-15677
+Processing tig00000726:1-10480
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 345, Coverage: 0, minDepth: 5
+Confirmed 0 of 10480 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000726:1-10480 log:
+Finished processing tig00000726:1-10480
+Processing tig00000724:1-6155
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 418, Coverage: 0, minDepth: 5
+Confirmed 0 of 6155 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000724:1-6155 log:
+Finished processing tig00000724:1-6155
+Processing tig00000834:1-4896
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3496, Coverage: 0, minDepth: 5
+Confirmed 0 of 4896 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000834:1-4896 log:
+Finished processing tig00000834:1-4896
+Processing tig00000933:1-4091
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 341, Coverage: 0, minDepth: 5
+Confirmed 0 of 4091 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000933:1-4091 log:
+Finished processing tig00000933:1-4091
+Processing tig00000931:1-10960
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 323, Coverage: 0, minDepth: 5
+Confirmed 0 of 10960 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000931:1-10960 log:
+Finished processing tig00000931:1-10960
+Processing tig00000728:1-9484
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 457, Coverage: 0, minDepth: 5
+Confirmed 0 of 9484 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000728:1-9484 log:
+Finished processing tig00000728:1-9484
+Processing tig00000420:1-16081
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 7005, Coverage: 0, minDepth: 5
+Confirmed 0 of 16081 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000420:1-16081 log:
+Finished processing tig00000420:1-16081
+Processing tig00000618:1-11830
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 496, Coverage: 0, minDepth: 5
+Confirmed 0 of 11830 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000618:1-11830 log:
+Finished processing tig00000618:1-11830
+Processing tig00000595:1-8203
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 225, Coverage: 0, minDepth: 5
+Confirmed 0 of 8203 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000595:1-8203 log:
+Finished processing tig00000595:1-8203
+Processing tig00000597:1-8951
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 185, Coverage: 0, minDepth: 5
+Confirmed 0 of 8951 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000597:1-8951 log:
+Finished processing tig00000597:1-8951
+Processing tig00000599:1-6979
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 291, Coverage: 0, minDepth: 5
+Confirmed 0 of 6979 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000599:1-6979 log:
+Finished processing tig00000599:1-6979
+Processing tig00000613:1-11971
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 613, Coverage: 0, minDepth: 5
+Confirmed 0 of 11971 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000613:1-11971 log:
+Finished processing tig00000613:1-11971
+Processing tig00000610:1-17392
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 532, Coverage: 0, minDepth: 5
+Confirmed 0 of 17392 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000610:1-17392 log:
+Finished processing tig00000610:1-17392
+Processing tig00000611:1-10969
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2353, Coverage: 0, minDepth: 5
+Confirmed 0 of 10969 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000611:1-10969 log:
+Finished processing tig00000611:1-10969
+Processing tig00000615:1-7509
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 276, Coverage: 0, minDepth: 5
+Confirmed 0 of 7509 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000615:1-7509 log:
+Finished processing tig00000615:1-7509
+Processing tig00000201:1-302536
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 109260, Coverage: 0, minDepth: 5
+Confirmed 0 of 302536 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000201:1-302536 log:
+Finished processing tig00000201:1-302536
+Processing tig00000205:1-12826
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1223, Coverage: 0, minDepth: 5
+Confirmed 0 of 12826 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000205:1-12826 log:
+Finished processing tig00000205:1-12826
+Processing tig00000754:1-11575
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1026, Coverage: 0, minDepth: 5
+Confirmed 0 of 11575 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000754:1-11575 log:
+Finished processing tig00000754:1-11575
+Processing tig00001330:1-13945
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1841, Coverage: 0, minDepth: 5
+Confirmed 0 of 13945 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001330:1-13945 log:
+Finished processing tig00001330:1-13945
+Processing tig00001336:1-12035
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 836, Coverage: 0, minDepth: 5
+Confirmed 0 of 12035 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001336:1-12035 log:
+Finished processing tig00001336:1-12035
+Processing tig00001234:1-6798
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 909, Coverage: 0, minDepth: 5
+Confirmed 0 of 6798 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001234:1-6798 log:
+Finished processing tig00001234:1-6798
+Processing tig00000546:1-9800
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 924, Coverage: 0, minDepth: 5
+Confirmed 0 of 9800 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000546:1-9800 log:
+Finished processing tig00000546:1-9800
+Processing tig00001239:1-4639
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 514, Coverage: 0, minDepth: 5
+Confirmed 0 of 4639 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001239:1-4639 log:
+Finished processing tig00001239:1-4639
+Processing tig00000503:1-14320
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 813, Coverage: 0, minDepth: 5
+Confirmed 0 of 14320 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000503:1-14320 log:
+Finished processing tig00000503:1-14320
+Processing tig00000057:1-1041647
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 259544, Coverage: 0, minDepth: 5
+Confirmed 0 of 1041647 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000057:1-1041647 log:
+Finished processing tig00000057:1-1041647
+Processing tig00000502:1-14785
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1341, Coverage: 0, minDepth: 5
+Confirmed 0 of 14785 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000502:1-14785 log:
+Finished processing tig00000502:1-14785
+Processing tig00000297:1-20936
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2072, Coverage: 0, minDepth: 5
+Confirmed 0 of 20936 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000297:1-20936 log:
+Finished processing tig00000297:1-20936
+Processing tig00000295:1-17949
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1431, Coverage: 0, minDepth: 5
+Confirmed 0 of 17949 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000295:1-17949 log:
+Finished processing tig00000295:1-17949
+Processing tig00000512:1-16459
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2161, Coverage: 0, minDepth: 5
+Confirmed 0 of 16459 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000512:1-16459 log:
+Finished processing tig00000512:1-16459
+Processing tig00000516:1-10546
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 7492, Coverage: 0, minDepth: 5
+Confirmed 0 of 10546 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000516:1-10546 log:
+Finished processing tig00000516:1-10546
+Processing tig00000371:1-28147
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 4443, Coverage: 0, minDepth: 5
+Confirmed 0 of 28147 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000371:1-28147 log:
+Finished processing tig00000371:1-28147
+Processing tig00000370:1-13673
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 164, Coverage: 0, minDepth: 5
+Confirmed 0 of 13673 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000370:1-13673 log:
+Finished processing tig00000370:1-13673
+Processing tig00000373:1-18269
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 21018, Coverage: 0, minDepth: 5
+Confirmed 0 of 18269 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000373:1-18269 log:
+Finished processing tig00000373:1-18269
+Processing tig00000372:1-12922
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 268, Coverage: 0, minDepth: 5
+Confirmed 0 of 12922 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000372:1-12922 log:
+Finished processing tig00000372:1-12922
+Processing tig00000374:1-24354
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3298, Coverage: 0, minDepth: 5
+Confirmed 0 of 24354 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000374:1-24354 log:
+Finished processing tig00000374:1-24354
+Processing tig00000471:1-9314
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 318, Coverage: 0, minDepth: 5
+Confirmed 0 of 9314 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000471:1-9314 log:
+Finished processing tig00000471:1-9314
+Processing tig00000475:1-12651
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 698, Coverage: 0, minDepth: 5
+Confirmed 0 of 12651 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000475:1-12651 log:
+Finished processing tig00000475:1-12651
+Processing tig00000572:1-10899
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 797, Coverage: 0, minDepth: 5
+Confirmed 0 of 10899 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000572:1-10899 log:
+Finished processing tig00000572:1-10899
+Processing tig00000571:1-11312
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1932, Coverage: 0, minDepth: 5
+Confirmed 0 of 11312 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000571:1-11312 log:
+Finished processing tig00000571:1-11312
+Processing tig00000977:1-1810
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 87, Coverage: 0, minDepth: 5
+Confirmed 0 of 1810 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000977:1-1810 log:
+Finished processing tig00000977:1-1810
+Processing tig00000978:1-3712
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 244, Coverage: 0, minDepth: 5
+Confirmed 0 of 3712 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000978:1-3712 log:
+Finished processing tig00000978:1-3712
+Processing tig00001030:1-5120
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 42, Coverage: 0, minDepth: 5
+Confirmed 0 of 5120 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001030:1-5120 log:
+Finished processing tig00001030:1-5120
+Processing tig00001026:1-10900
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 183, Coverage: 0, minDepth: 5
+Confirmed 0 of 10900 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001026:1-10900 log:
+Finished processing tig00001026:1-10900
+Processing tig00000808:1-2497
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 53, Coverage: 0, minDepth: 5
+Confirmed 0 of 2497 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000808:1-2497 log:
+Finished processing tig00000808:1-2497
+Processing tig00000652:1-10513
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1010, Coverage: 0, minDepth: 5
+Confirmed 0 of 10513 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000652:1-10513 log:
+Finished processing tig00000652:1-10513
+Processing tig00000650:1-9110
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 186, Coverage: 0, minDepth: 5
+Confirmed 0 of 9110 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000650:1-9110 log:
+Finished processing tig00000650:1-9110
+Processing tig00000718:1-11557
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 554, Coverage: 0, minDepth: 5
+Confirmed 0 of 11557 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000718:1-11557 log:
+Finished processing tig00000718:1-11557
+Processing tig00000717:1-18997
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5855, Coverage: 0, minDepth: 5
+Confirmed 0 of 18997 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000717:1-18997 log:
+Finished processing tig00000717:1-18997
+Processing tig00000716:1-7263
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 186, Coverage: 0, minDepth: 5
+Confirmed 0 of 7263 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000716:1-7263 log:
+Finished processing tig00000716:1-7263
+Processing tig00000714:1-11851
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 687, Coverage: 0, minDepth: 5
+Confirmed 0 of 11851 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000714:1-11851 log:
+Finished processing tig00000714:1-11851
+Processing tig00001370:1-1606
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 450, Coverage: 0, minDepth: 5
+Confirmed 0 of 1606 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001370:1-1606 log:
+Finished processing tig00001370:1-1606
+Processing tig00002270:1-1766632
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 509978, Coverage: 0, minDepth: 5
+Confirmed 0 of 1766632 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002270:1-1766632 log:
+Finished processing tig00002270:1-1766632
+Processing tig00002278:1-124384
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 28832, Coverage: 0, minDepth: 5
+Confirmed 0 of 124384 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00002278:1-124384 log:
+Finished processing tig00002278:1-124384
+Processing tig00000151:1-401482
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 127283, Coverage: 0, minDepth: 5
+Confirmed 0 of 401482 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000151:1-401482 log:
+Finished processing tig00000151:1-401482
+Processing tig00000256:1-70825
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 19709, Coverage: 0, minDepth: 5
+Confirmed 0 of 70825 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000256:1-70825 log:
+Finished processing tig00000256:1-70825
+Processing tig00001307:1-6566
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 147, Coverage: 0, minDepth: 5
+Confirmed 0 of 6566 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001307:1-6566 log:
+Finished processing tig00001307:1-6566
+Processing tig00000783:1-20876
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 4231, Coverage: 0, minDepth: 5
+Confirmed 0 of 20876 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000783:1-20876 log:
+Finished processing tig00000783:1-20876
+Processing tig00001308:1-4084
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 104, Coverage: 0, minDepth: 5
+Confirmed 0 of 4084 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001308:1-4084 log:
+Finished processing tig00001308:1-4084
+Processing tig00000805:1-15922
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 2411, Coverage: 0, minDepth: 5
+Confirmed 0 of 15922 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000805:1-15922 log:
+Finished processing tig00000805:1-15922
+Processing tig00000436:1-11495
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 7251, Coverage: 0, minDepth: 5
+Confirmed 0 of 11495 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000436:1-11495 log:
+Finished processing tig00000436:1-11495
+Processing tig00000434:1-12162
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 495, Coverage: 0, minDepth: 5
+Confirmed 0 of 12162 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000434:1-12162 log:
+Finished processing tig00000434:1-12162
+Processing tig00000440:1-10429
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 342, Coverage: 0, minDepth: 5
+Confirmed 0 of 10429 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000440:1-10429 log:
+Finished processing tig00000440:1-10429
+Processing tig00000433:1-12609
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 128, Coverage: 0, minDepth: 5
+Confirmed 0 of 12609 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000433:1-12609 log:
+Finished processing tig00000433:1-12609
+Processing tig00000431:1-13396
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1190, Coverage: 0, minDepth: 5
+Confirmed 0 of 13396 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000431:1-13396 log:
+Finished processing tig00000431:1-13396
+Processing tig00000536:1-7468
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 319, Coverage: 0, minDepth: 5
+Confirmed 0 of 7468 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000536:1-7468 log:
+Finished processing tig00000536:1-7468
+Processing tig00000533:1-13573
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 684, Coverage: 0, minDepth: 5
+Confirmed 0 of 13573 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000533:1-13573 log:
+Finished processing tig00000533:1-13573
+Processing tig00001001:1-9065
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 561, Coverage: 0, minDepth: 5
+Confirmed 0 of 9065 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001001:1-9065 log:
+Finished processing tig00001001:1-9065
+Processing tig00000744:1-8869
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 420, Coverage: 0, minDepth: 5
+Confirmed 0 of 8869 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000744:1-8869 log:
+Finished processing tig00000744:1-8869
+Processing tig00000322:1-11081
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3158, Coverage: 0, minDepth: 5
+Confirmed 0 of 11081 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000322:1-11081 log:
+Finished processing tig00000322:1-11081
+Processing tig00000321:1-12977
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 726, Coverage: 0, minDepth: 5
+Confirmed 0 of 12977 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000321:1-12977 log:
+Finished processing tig00000321:1-12977
+Processing tig00000326:1-14096
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 613, Coverage: 0, minDepth: 5
+Confirmed 0 of 14096 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000326:1-14096 log:
+Finished processing tig00000326:1-14096
+Processing tig00000327:1-12225
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1189, Coverage: 0, minDepth: 5
+Confirmed 0 of 12225 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000327:1-12225 log:
+Finished processing tig00000327:1-12225
+Processing tig00000324:1-15960
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5187, Coverage: 0, minDepth: 5
+Confirmed 0 of 15960 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000324:1-15960 log:
+Finished processing tig00000324:1-15960
+Processing tig00000447:1-15449
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 888, Coverage: 0, minDepth: 5
+Confirmed 0 of 15449 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000447:1-15449 log:
+Finished processing tig00000447:1-15449
+Processing tig00000446:1-6068
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 455, Coverage: 0, minDepth: 5
+Confirmed 0 of 6068 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000446:1-6068 log:
+Finished processing tig00000446:1-6068
+Processing tig00001342:1-10818
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 234, Coverage: 0, minDepth: 5
+Confirmed 0 of 10818 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001342:1-10818 log:
+Finished processing tig00001342:1-10818
+Processing tig00000803:1-9961
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 680, Coverage: 0, minDepth: 5
+Confirmed 0 of 9961 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000803:1-9961 log:
+Finished processing tig00000803:1-9961
+Processing tig00000843:1-4558
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 557, Coverage: 0, minDepth: 5
+Confirmed 0 of 4558 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000843:1-4558 log:
+Finished processing tig00000843:1-4558
+Processing tig00000840:1-12747
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 196, Coverage: 0, minDepth: 5
+Confirmed 0 of 12747 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000840:1-12747 log:
+Finished processing tig00000840:1-12747
+Processing tig00000920:1-1457
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 57000, Coverage: 0, minDepth: 5
+Confirmed 0 of 1457 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000920:1-1457 log:
+Finished processing tig00000920:1-1457
+Processing tig00000922:1-9465
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 505, Coverage: 0, minDepth: 5
+Confirmed 0 of 9465 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000922:1-9465 log:
+Finished processing tig00000922:1-9465
+Processing tig00000924:1-3894
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 97, Coverage: 0, minDepth: 5
+Confirmed 0 of 3894 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000924:1-3894 log:
+Finished processing tig00000924:1-3894
+Processing tig00001136:1-7745
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 5246, Coverage: 0, minDepth: 5
+Confirmed 0 of 7745 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001136:1-7745 log:
+Finished processing tig00001136:1-7745
+Processing tig00000341:1-15602
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 6752, Coverage: 0, minDepth: 5
+Confirmed 0 of 15602 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000341:1-15602 log:
+Finished processing tig00000341:1-15602
+Processing tig00001299:1-9892
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 663, Coverage: 0, minDepth: 5
+Confirmed 0 of 9892 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00001299:1-9892 log:
+Finished processing tig00001299:1-9892
+Processing tig00000586:1-8690
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 1831, Coverage: 0, minDepth: 5
+Confirmed 0 of 8690 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000586:1-8690 log:
+Finished processing tig00000586:1-8690
+Processing tig00000587:1-6225
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 135, Coverage: 0, minDepth: 5
+Confirmed 0 of 6225 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000587:1-6225 log:
+Finished processing tig00000587:1-6225
+Processing tig00000588:1-6416
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 197, Coverage: 0, minDepth: 5
+Confirmed 0 of 6416 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000588:1-6416 log:
+Finished processing tig00000588:1-6416
+Processing tig00000742:1-8127
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 584, Coverage: 0, minDepth: 5
+Confirmed 0 of 8127 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000742:1-8127 log:
+Finished processing tig00000742:1-8127
+Processing tig00000213:1-25243
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 3135, Coverage: 0, minDepth: 5
+Confirmed 0 of 25243 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000213:1-25243 log:
+Finished processing tig00000213:1-25243
+Processing tig00000210:1-236685
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 54066, Coverage: 0, minDepth: 5
+Confirmed 0 of 236685 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000210:1-236685 log:
+Finished processing tig00000210:1-236685
+Processing tig00000939:1-12040
+frags aln-pe.sorted.bam: coverage 0
+Total Reads: 491, Coverage: 0, minDepth: 5
+Confirmed 0 of 12040 bases (0.00%)
+Corrected 0 snps; corrected 0 small insertions totaling 0 bases, 0 small deletions totaling 0 bases
+tig00000939:1-12040 log:
+Finished processing tig00000939:1-12040
+Writing updated tig00001328_pilon to pilon_polished.fasta
+Writing updated tig00000773_pilon to pilon_polished.fasta
+Writing updated tig00000067_pilon to pilon_polished.fasta
+Writing updated tig00000069_pilon to pilon_polished.fasta
+Writing updated tig00000261_pilon to pilon_polished.fasta
+Writing updated tig00000260_pilon to pilon_polished.fasta
+Writing updated tig00000265_pilon to pilon_polished.fasta
+Writing updated tig00000264_pilon to pilon_polished.fasta
+Writing updated tig00001048_pilon to pilon_polished.fasta
+Writing updated tig00001049_pilon to pilon_polished.fasta
+Writing updated tig00000084_pilon to pilon_polished.fasta
+Writing updated tig00000365_pilon to pilon_polished.fasta
+Writing updated tig00000363_pilon to pilon_polished.fasta
+Writing updated tig00000360_pilon to pilon_polished.fasta
+Writing updated tig00000361_pilon to pilon_polished.fasta
+Writing updated tig00000407_pilon to pilon_polished.fasta
+Writing updated tig00000406_pilon to pilon_polished.fasta
+Writing updated tig00000404_pilon to pilon_polished.fasta
+Writing updated tig00000560_pilon to pilon_polished.fasta
+Writing updated tig00000561_pilon to pilon_polished.fasta
+Writing updated tig00000886_pilon to pilon_polished.fasta
+Writing updated tig00000961_pilon to pilon_polished.fasta
+Writing updated tig00000316_pilon to pilon_polished.fasta
+Writing updated tig00000810_pilon to pilon_polished.fasta
+Writing updated tig00000147_pilon to pilon_polished.fasta
+Writing updated tig00000145_pilon to pilon_polished.fasta
+Writing updated tig00000143_pilon to pilon_polished.fasta
+Writing updated tig00000639_pilon to pilon_polished.fasta
+Writing updated tig00000221_pilon to pilon_polished.fasta
+Writing updated tig00000220_pilon to pilon_polished.fasta
+Writing updated tig00001314_pilon to pilon_polished.fasta
+Writing updated tig00001315_pilon to pilon_polished.fasta
+Writing updated tig00001316_pilon to pilon_polished.fasta
+Writing updated tig00001317_pilon to pilon_polished.fasta
+Writing updated tig00001040_pilon to pilon_polished.fasta
+Writing updated tig00000623_pilon to pilon_polished.fasta
+Writing updated tig00000036_pilon to pilon_polished.fasta
+Writing updated tig00000523_pilon to pilon_polished.fasta
+Writing updated tig00001034_pilon to pilon_polished.fasta
+Writing updated tig00000529_pilon to pilon_polished.fasta
+Writing updated tig00001303_pilon to pilon_polished.fasta
+Writing updated tig00000356_pilon to pilon_polished.fasta
+Writing updated tig00000355_pilon to pilon_polished.fasta
+Writing updated tig00000352_pilon to pilon_polished.fasta
+Writing updated tig00000358_pilon to pilon_polished.fasta
+Writing updated tig00000753_pilon to pilon_polished.fasta
+Writing updated tig00000752_pilon to pilon_polished.fasta
+Writing updated tig00000751_pilon to pilon_polished.fasta
+Writing updated tig00000919_pilon to pilon_polished.fasta
+Writing updated tig00000910_pilon to pilon_polished.fasta
+Writing updated tig00001282_pilon to pilon_polished.fasta
+Writing updated tig00001281_pilon to pilon_polished.fasta
+Writing updated tig00000357_pilon to pilon_polished.fasta
+Writing updated tig00000771_pilon to pilon_polished.fasta
+Writing updated tig00000779_pilon to pilon_polished.fasta
+Writing updated tig00001351_pilon to pilon_polished.fasta
+Writing updated tig00001352_pilon to pilon_polished.fasta
+Writing updated tig00001353_pilon to pilon_polished.fasta
+Writing updated tig00001213_pilon to pilon_polished.fasta
+Writing updated tig00000487_pilon to pilon_polished.fasta
+Writing updated tig00000485_pilon to pilon_polished.fasta
+Writing updated tig00000484_pilon to pilon_polished.fasta
+Writing updated tig00000482_pilon to pilon_polished.fasta
+Writing updated tig00000481_pilon to pilon_polished.fasta
+Writing updated tig00000480_pilon to pilon_polished.fasta
+Writing updated tig00000076_pilon to pilon_polished.fasta
+Writing updated tig00000075_pilon to pilon_polished.fasta
+Writing updated tig00000270_pilon to pilon_polished.fasta
+Writing updated tig00000277_pilon to pilon_polished.fasta
+Writing updated tig00000279_pilon to pilon_polished.fasta
+Writing updated tig00000098_pilon to pilon_polished.fasta
+Writing updated tig00000096_pilon to pilon_polished.fasta
+Writing updated tig00000393_pilon to pilon_polished.fasta
+Writing updated tig00000392_pilon to pilon_polished.fasta
+Writing updated tig00000391_pilon to pilon_polished.fasta
+Writing updated tig00000390_pilon to pilon_polished.fasta
+Writing updated tig00000399_pilon to pilon_polished.fasta
+Writing updated tig00000398_pilon to pilon_polished.fasta
+Writing updated tig00000416_pilon to pilon_polished.fasta
+Writing updated tig00000412_pilon to pilon_polished.fasta
+Writing updated tig00000553_pilon to pilon_polished.fasta
+Writing updated tig00000894_pilon to pilon_polished.fasta
+Writing updated tig00000954_pilon to pilon_polished.fasta
+Writing updated tig00000749_pilon to pilon_polished.fasta
+Writing updated tig00002288_pilon to pilon_polished.fasta
+Writing updated tig00002280_pilon to pilon_polished.fasta
+Writing updated tig00000300_pilon to pilon_polished.fasta
+Writing updated tig00000301_pilon to pilon_polished.fasta
+Writing updated tig00000302_pilon to pilon_polished.fasta
+Writing updated tig00000303_pilon to pilon_polished.fasta
+Writing updated tig00000304_pilon to pilon_polished.fasta
+Writing updated tig00000305_pilon to pilon_polished.fasta
+Writing updated tig00000306_pilon to pilon_polished.fasta
+Writing updated tig00000307_pilon to pilon_polished.fasta
+Writing updated tig00000733_pilon to pilon_polished.fasta
+Writing updated tig00000732_pilon to pilon_polished.fasta
+Writing updated tig00000734_pilon to pilon_polished.fasta
+Writing updated tig00000826_pilon to pilon_polished.fasta
+Writing updated tig00001008_pilon to pilon_polished.fasta
+Writing updated tig00001253_pilon to pilon_polished.fasta
+Writing updated tig00001254_pilon to pilon_polished.fasta
+Writing updated tig00001259_pilon to pilon_polished.fasta
+Writing updated tig00000535_pilon to pilon_polished.fasta
+Writing updated tig00000527_pilon to pilon_polished.fasta
+Writing updated tig00001025_pilon to pilon_polished.fasta
+Writing updated tig00000607_pilon to pilon_polished.fasta
+Writing updated tig00000606_pilon to pilon_polished.fasta
+Writing updated tig00000238_pilon to pilon_polished.fasta
+Writing updated tig00000600_pilon to pilon_polished.fasta
+Writing updated tig00000602_pilon to pilon_polished.fasta
+Writing updated tig00000234_pilon to pilon_polished.fasta
+Writing updated tig00000231_pilon to pilon_polished.fasta
+Writing updated tig00000504_pilon to pilon_polished.fasta
+Writing updated tig00000193_pilon to pilon_polished.fasta
+Writing updated tig00000500_pilon to pilon_polished.fasta
+Writing updated tig00000501_pilon to pilon_polished.fasta
+Writing updated tig00000046_pilon to pilon_polished.fasta
+Writing updated tig00000122_pilon to pilon_polished.fasta
+Writing updated tig00000123_pilon to pilon_polished.fasta
+Writing updated tig00000694_pilon to pilon_polished.fasta
+Writing updated tig00000286_pilon to pilon_polished.fasta
+Writing updated tig00000995_pilon to pilon_polished.fasta
+Writing updated tig00000993_pilon to pilon_polished.fasta
+Writing updated tig00000992_pilon to pilon_polished.fasta
+Writing updated tig00000998_pilon to pilon_polished.fasta
+Writing updated tig00000345_pilon to pilon_polished.fasta
+Writing updated tig00000346_pilon to pilon_polished.fasta
+Writing updated tig00000340_pilon to pilon_polished.fasta
+Writing updated tig00000342_pilon to pilon_polished.fasta
+Writing updated tig00000343_pilon to pilon_polished.fasta
+Writing updated tig00000348_pilon to pilon_polished.fasta
+Writing updated tig00000869_pilon to pilon_polished.fasta
+Writing updated tig00000793_pilon to pilon_polished.fasta
+Writing updated tig00000641_pilon to pilon_polished.fasta
+Writing updated tig00000643_pilon to pilon_polished.fasta
+Writing updated tig00000769_pilon to pilon_polished.fasta
+Writing updated tig00000645_pilon to pilon_polished.fasta
+Writing updated tig00000649_pilon to pilon_polished.fasta
+Writing updated tig00000760_pilon to pilon_polished.fasta
+Writing updated tig00000766_pilon to pilon_polished.fasta
+Writing updated tig00001367_pilon to pilon_polished.fasta
+Writing updated tig00001366_pilon to pilon_polished.fasta
+Writing updated tig00002265_pilon to pilon_polished.fasta
+Writing updated tig00002264_pilon to pilon_polished.fasta
+Writing updated tig00002266_pilon to pilon_polished.fasta
+Writing updated tig00002262_pilon to pilon_polished.fasta
+Writing updated tig00000608_pilon to pilon_polished.fasta
+Writing updated tig00000498_pilon to pilon_polished.fasta
+Writing updated tig00000359_pilon to pilon_polished.fasta
+Writing updated tig00000494_pilon to pilon_polished.fasta
+Writing updated tig00000496_pilon to pilon_polished.fasta
+Writing updated tig00000497_pilon to pilon_polished.fasta
+Writing updated tig00000490_pilon to pilon_polished.fasta
+Writing updated tig00000492_pilon to pilon_polished.fasta
+Writing updated tig00000160_pilon to pilon_polished.fasta
+Writing updated tig00000243_pilon to pilon_polished.fasta
+Writing updated tig00000249_pilon to pilon_polished.fasta
+Writing updated tig00000328_pilon to pilon_polished.fasta
+Writing updated tig00000429_pilon to pilon_polished.fasta
+Writing updated tig00000428_pilon to pilon_polished.fasta
+Writing updated tig00000384_pilon to pilon_polished.fasta
+Writing updated tig00000388_pilon to pilon_polished.fasta
+Writing updated tig00000389_pilon to pilon_polished.fasta
+Writing updated tig00000423_pilon to pilon_polished.fasta
+Writing updated tig00000422_pilon to pilon_polished.fasta
+Writing updated tig00000425_pilon to pilon_polished.fasta
+Writing updated tig00000424_pilon to pilon_polished.fasta
+Writing updated tig00000427_pilon to pilon_polished.fasta
+Writing updated tig00000426_pilon to pilon_polished.fasta
+Writing updated tig00000013_pilon to pilon_polished.fasta
+Writing updated tig00001015_pilon to pilon_polished.fasta
+Writing updated tig00000947_pilon to pilon_polished.fasta
+Writing updated tig00000940_pilon to pilon_polished.fasta
+Writing updated tig00002293_pilon to pilon_polished.fasta
+Writing updated tig00000815_pilon to pilon_polished.fasta
+Writing updated tig00000578_pilon to pilon_polished.fasta
+Writing updated tig00000336_pilon to pilon_polished.fasta
+Writing updated tig00000333_pilon to pilon_polished.fasta
+Writing updated tig00000332_pilon to pilon_polished.fasta
+Writing updated tig00000726_pilon to pilon_polished.fasta
+Writing updated tig00000724_pilon to pilon_polished.fasta
+Writing updated tig00000834_pilon to pilon_polished.fasta
+Writing updated tig00000933_pilon to pilon_polished.fasta
+Writing updated tig00000931_pilon to pilon_polished.fasta
+Writing updated tig00000728_pilon to pilon_polished.fasta
+Writing updated tig00000420_pilon to pilon_polished.fasta
+Writing updated tig00000618_pilon to pilon_polished.fasta
+Writing updated tig00000595_pilon to pilon_polished.fasta
+Writing updated tig00000597_pilon to pilon_polished.fasta
+Writing updated tig00000599_pilon to pilon_polished.fasta
+Writing updated tig00000613_pilon to pilon_polished.fasta
+Writing updated tig00000610_pilon to pilon_polished.fasta
+Writing updated tig00000611_pilon to pilon_polished.fasta
+Writing updated tig00000615_pilon to pilon_polished.fasta
+Writing updated tig00000201_pilon to pilon_polished.fasta
+Writing updated tig00000205_pilon to pilon_polished.fasta
+Writing updated tig00000754_pilon to pilon_polished.fasta
+Writing updated tig00001330_pilon to pilon_polished.fasta
+Writing updated tig00001336_pilon to pilon_polished.fasta
+Writing updated tig00001234_pilon to pilon_polished.fasta
+Writing updated tig00000546_pilon to pilon_polished.fasta
+Writing updated tig00001239_pilon to pilon_polished.fasta
+Writing updated tig00000503_pilon to pilon_polished.fasta
+Writing updated tig00000057_pilon to pilon_polished.fasta
+Writing updated tig00000502_pilon to pilon_polished.fasta
+Writing updated tig00000297_pilon to pilon_polished.fasta
+Writing updated tig00000295_pilon to pilon_polished.fasta
+Writing updated tig00000512_pilon to pilon_polished.fasta
+Writing updated tig00000516_pilon to pilon_polished.fasta
+Writing updated tig00000371_pilon to pilon_polished.fasta
+Writing updated tig00000370_pilon to pilon_polished.fasta
+Writing updated tig00000373_pilon to pilon_polished.fasta
+Writing updated tig00000372_pilon to pilon_polished.fasta
+Writing updated tig00000374_pilon to pilon_polished.fasta
+Writing updated tig00000471_pilon to pilon_polished.fasta
+Writing updated tig00000475_pilon to pilon_polished.fasta
+Writing updated tig00000572_pilon to pilon_polished.fasta
+Writing updated tig00000571_pilon to pilon_polished.fasta
+Writing updated tig00000977_pilon to pilon_polished.fasta
+Writing updated tig00000978_pilon to pilon_polished.fasta
+Writing updated tig00001030_pilon to pilon_polished.fasta
+Writing updated tig00001026_pilon to pilon_polished.fasta
+Writing updated tig00000808_pilon to pilon_polished.fasta
+Writing updated tig00000652_pilon to pilon_polished.fasta
+Writing updated tig00000650_pilon to pilon_polished.fasta
+Writing updated tig00000718_pilon to pilon_polished.fasta
+Writing updated tig00000717_pilon to pilon_polished.fasta
+Writing updated tig00000716_pilon to pilon_polished.fasta
+Writing updated tig00000714_pilon to pilon_polished.fasta
+Writing updated tig00001370_pilon to pilon_polished.fasta
+Writing updated tig00002270_pilon to pilon_polished.fasta
+Writing updated tig00002278_pilon to pilon_polished.fasta
+Writing updated tig00000151_pilon to pilon_polished.fasta
+Writing updated tig00000256_pilon to pilon_polished.fasta
+Writing updated tig00001307_pilon to pilon_polished.fasta
+Writing updated tig00000783_pilon to pilon_polished.fasta
+Writing updated tig00001308_pilon to pilon_polished.fasta
+Writing updated tig00000805_pilon to pilon_polished.fasta
+Writing updated tig00000436_pilon to pilon_polished.fasta
+Writing updated tig00000434_pilon to pilon_polished.fasta
+Writing updated tig00000440_pilon to pilon_polished.fasta
+Writing updated tig00000433_pilon to pilon_polished.fasta
+Writing updated tig00000431_pilon to pilon_polished.fasta
+Writing updated tig00000536_pilon to pilon_polished.fasta
+Writing updated tig00000533_pilon to pilon_polished.fasta
+Writing updated tig00001001_pilon to pilon_polished.fasta
+Writing updated tig00000744_pilon to pilon_polished.fasta
+Writing updated tig00000322_pilon to pilon_polished.fasta
+Writing updated tig00000321_pilon to pilon_polished.fasta
+Writing updated tig00000326_pilon to pilon_polished.fasta
+Writing updated tig00000327_pilon to pilon_polished.fasta
+Writing updated tig00000324_pilon to pilon_polished.fasta
+Writing updated tig00000447_pilon to pilon_polished.fasta
+Writing updated tig00000446_pilon to pilon_polished.fasta
+Writing updated tig00001342_pilon to pilon_polished.fasta
+Writing updated tig00000803_pilon to pilon_polished.fasta
+Writing updated tig00000843_pilon to pilon_polished.fasta
+Writing updated tig00000840_pilon to pilon_polished.fasta
+Writing updated tig00000920_pilon to pilon_polished.fasta
+Writing updated tig00000922_pilon to pilon_polished.fasta
+Writing updated tig00000924_pilon to pilon_polished.fasta
+Writing updated tig00001136_pilon to pilon_polished.fasta
+Writing updated tig00000341_pilon to pilon_polished.fasta
+Writing updated tig00001299_pilon to pilon_polished.fasta
+Writing updated tig00000586_pilon to pilon_polished.fasta
+Writing updated tig00000587_pilon to pilon_polished.fasta
+Writing updated tig00000588_pilon to pilon_polished.fasta
+Writing updated tig00000742_pilon to pilon_polished.fasta
+Writing updated tig00000213_pilon to pilon_polished.fasta
+Writing updated tig00000210_pilon to pilon_polished.fasta
+Writing updated tig00000939_pilon to pilon_polished.fasta
+Mean frags coverage: 0
+Mean total coverage: 0
