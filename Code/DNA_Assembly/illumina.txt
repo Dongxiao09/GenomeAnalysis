@@ -1,0 +1,2 @@
+fastqc -t 2 -o /home/dongx/Genome_Analysis/DNA_Assembly SRR6058604_scaffold_10.1P.fastq.gz
+fastqc -t 2 -o /home/dongx/Genome_Analysis/DNA_Assembly SRR6058604_scaffold_10.2P.fastq.gz
