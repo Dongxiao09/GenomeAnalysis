@@ -1,0 +1,178 @@
+augustus/3.4.0 : If you see errors about not being able to write to an augustus directory, see 'module help augustus/3.4.0'
+The environment variable BUSCO_LINEAGE_SETS is set to a directory containing
+BUSCO v5 lineage sets.  Use with the -l option, for example:
+    run_BUSCO.py -l $BUSCO_LINEAGE_SETS/fungi_odb10 ...
+A list of available lineage sets is provided via 'module help BUSCO/5.3.1'
+----
+If you see this error from BUSCO:
+    Error: Cannot write to Augustus directory, please make sure you have write permissions to <directory>
+then you need to create a local copy of the config directory from the augustus
+module with 'source $AUGUSTUS_CONFIG_COPY'.  See 'module help augustus/3.4.0'
+2023-05-02 22:53:36 INFO:	***** Start a BUSCO v5.3.1 analysis, current time: 05/02/2023 22:53:36 *****
+2023-05-02 22:53:36 INFO:	Configuring BUSCO with /sw/bioinfo/BUSCO/5.3.1/snowy/config.ini
+2023-05-02 22:53:36 INFO:	Mode is genome
+2023-05-02 22:53:36 INFO:	Input file is /home/dongx/Genome_Analysis/DNA_Assembly/Canu/Canu_assembly_01/canu_assembly_output_01.contigs.fasta
+2023-05-02 22:53:36 INFO:	Using local lineages directory /sw/bioinfo/BUSCO/v5_lineage_sets/lineages/eudicots_odb10
+2023-05-02 22:53:37 INFO:	Running BUSCO using lineage dataset eudicots_odb10 (eukaryota, 2020-09-10)
+2023-05-02 22:53:37 INFO:	Running 1 job(s) on metaeuk, starting at 05/02/2023 22:53:37
+2023-05-02 23:03:14 INFO:	[metaeuk]	1 of 1 task(s) completed
+2023-05-02 23:03:16 INFO:	***** Run HMMER on gene sequences *****
+2023-05-02 23:03:16 INFO:	Running 2326 job(s) on hmmsearch, starting at 05/02/2023 23:03:16
+2023-05-02 23:03:27 INFO:	[hmmsearch]	233 of 2326 task(s) completed
+2023-05-02 23:03:42 INFO:	[hmmsearch]	466 of 2326 task(s) completed
+2023-05-02 23:03:54 INFO:	[hmmsearch]	698 of 2326 task(s) completed
+2023-05-02 23:04:07 INFO:	[hmmsearch]	931 of 2326 task(s) completed
+2023-05-02 23:04:26 INFO:	[hmmsearch]	1163 of 2326 task(s) completed
+2023-05-02 23:04:55 INFO:	[hmmsearch]	1396 of 2326 task(s) completed
+2023-05-02 23:05:19 INFO:	[hmmsearch]	1629 of 2326 task(s) completed
+2023-05-02 23:05:41 INFO:	[hmmsearch]	1861 of 2326 task(s) completed
+2023-05-02 23:05:56 INFO:	[hmmsearch]	2094 of 2326 task(s) completed
+2023-05-02 23:06:08 INFO:	[hmmsearch]	2326 of 2326 task(s) completed
+2023-05-02 23:06:14 INFO:	Extracting missing and fragmented buscos from the file refseq_db.faa...
+2023-05-02 23:07:06 INFO:	Running 1 job(s) on metaeuk, starting at 05/02/2023 23:07:06
+2023-05-02 23:56:43 INFO:	[metaeuk]	1 of 1 task(s) completed
+2023-05-02 23:56:45 INFO:	***** Run HMMER on gene sequences *****
+2023-05-02 23:56:45 INFO:	Running 2214 job(s) on hmmsearch, starting at 05/02/2023 23:56:45
+2023-05-02 23:57:03 INFO:	[hmmsearch]	222 of 2214 task(s) completed
+2023-05-02 23:57:18 INFO:	[hmmsearch]	443 of 2214 task(s) completed
+2023-05-02 23:57:37 INFO:	[hmmsearch]	665 of 2214 task(s) completed
+2023-05-02 23:57:53 INFO:	[hmmsearch]	886 of 2214 task(s) completed
+2023-05-02 23:58:11 INFO:	[hmmsearch]	1108 of 2214 task(s) completed
+2023-05-02 23:58:24 INFO:	[hmmsearch]	1329 of 2214 task(s) completed
+2023-05-02 23:58:40 INFO:	[hmmsearch]	1550 of 2214 task(s) completed
+2023-05-02 23:58:55 INFO:	[hmmsearch]	1772 of 2214 task(s) completed
+2023-05-02 23:59:11 INFO:	[hmmsearch]	1993 of 2214 task(s) completed
+2023-05-02 23:59:27 INFO:	[hmmsearch]	2214 of 2214 task(s) completed
+2023-05-02 23:59:33 INFO:	Validating exons and removing overlapping matches
+2023-05-02 23:59:36 INFO:	Results:	C:5.4%[S:4.4%,D:1.0%],F:0.5%,M:94.1%,n:2326	   
+
+2023-05-02 23:59:37 INFO:	
+
+	--------------------------------------------------
+	|Results from dataset eudicots_odb10              |
+	--------------------------------------------------
+	|C:5.4%[S:4.4%,D:1.0%],F:0.5%,M:94.1%,n:2326      |
+	|126	Complete BUSCOs (C)                       |
+	|103	Complete and single-copy BUSCOs (S)       |
+	|23	Complete and duplicated BUSCOs (D)        |
+	|11	Fragmented BUSCOs (F)                     |
+	|2189	Missing BUSCOs (M)                        |
+	|2326	Total BUSCO groups searched               |
+	--------------------------------------------------
+2023-05-02 23:59:37 INFO:	BUSCO analysis done. Total running time: 3961 seconds
+2023-05-02 23:59:37 INFO:	Results written in /domus/h1/dongx/Genome_Analysis/DNA_Assembly/Evaluation/BUSCO_01/home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/BUSCO_01/canu_busco
+2023-05-02 23:59:37 INFO:	For assistance with interpreting the results, please consult the userguide: https://busco.ezlab.org/busco_userguide.html
+
+2023-05-02 23:59:37 INFO:	Visit this page https://gitlab.com/ezlab/busco#how-to-cite-busco to see how to cite BUSCO
+2023-05-02 23:59:38 INFO:	***** Start a BUSCO v5.3.1 analysis, current time: 05/02/2023 23:59:38 *****
+2023-05-02 23:59:38 INFO:	Configuring BUSCO with /sw/bioinfo/BUSCO/5.3.1/snowy/config.ini
+2023-05-02 23:59:38 INFO:	Mode is genome
+2023-05-02 23:59:38 INFO:	Input file is /home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.reduced.fa
+2023-05-02 23:59:38 INFO:	Using local lineages directory /sw/bioinfo/BUSCO/v5_lineage_sets/lineages/eudicots_odb10
+2023-05-02 23:59:39 INFO:	Running BUSCO using lineage dataset eudicots_odb10 (eukaryota, 2020-09-10)
+2023-05-02 23:59:39 INFO:	Running 1 job(s) on metaeuk, starting at 05/02/2023 23:59:39
+2023-05-03 00:07:25 INFO:	[metaeuk]	1 of 1 task(s) completed
+2023-05-03 00:07:26 INFO:	***** Run HMMER on gene sequences *****
+2023-05-03 00:07:26 INFO:	Running 2326 job(s) on hmmsearch, starting at 05/03/2023 00:07:26
+2023-05-03 00:07:36 INFO:	[hmmsearch]	233 of 2326 task(s) completed
+2023-05-03 00:07:48 INFO:	[hmmsearch]	466 of 2326 task(s) completed
+2023-05-03 00:07:59 INFO:	[hmmsearch]	698 of 2326 task(s) completed
+2023-05-03 00:08:10 INFO:	[hmmsearch]	931 of 2326 task(s) completed
+2023-05-03 00:08:26 INFO:	[hmmsearch]	1163 of 2326 task(s) completed
+2023-05-03 00:08:49 INFO:	[hmmsearch]	1396 of 2326 task(s) completed
+2023-05-03 00:09:09 INFO:	[hmmsearch]	1629 of 2326 task(s) completed
+2023-05-03 00:09:27 INFO:	[hmmsearch]	1861 of 2326 task(s) completed
+2023-05-03 00:09:40 INFO:	[hmmsearch]	2094 of 2326 task(s) completed
+2023-05-03 00:09:50 INFO:	[hmmsearch]	2326 of 2326 task(s) completed
+2023-05-03 00:09:55 INFO:	Extracting missing and fragmented buscos from the file refseq_db.faa...
+2023-05-03 00:10:48 INFO:	Running 1 job(s) on metaeuk, starting at 05/03/2023 00:10:48
+2023-05-03 00:49:46 INFO:	[metaeuk]	1 of 1 task(s) completed
+2023-05-03 00:49:48 INFO:	***** Run HMMER on gene sequences *****
+2023-05-03 00:49:48 INFO:	Running 2214 job(s) on hmmsearch, starting at 05/03/2023 00:49:48
+2023-05-03 00:50:04 INFO:	[hmmsearch]	222 of 2214 task(s) completed
+2023-05-03 00:50:17 INFO:	[hmmsearch]	443 of 2214 task(s) completed
+2023-05-03 00:50:33 INFO:	[hmmsearch]	665 of 2214 task(s) completed
+2023-05-03 00:50:47 INFO:	[hmmsearch]	886 of 2214 task(s) completed
+2023-05-03 00:51:02 INFO:	[hmmsearch]	1108 of 2214 task(s) completed
+2023-05-03 00:51:14 INFO:	[hmmsearch]	1329 of 2214 task(s) completed
+2023-05-03 00:51:28 INFO:	[hmmsearch]	1550 of 2214 task(s) completed
+2023-05-03 00:51:40 INFO:	[hmmsearch]	1772 of 2214 task(s) completed
+2023-05-03 00:51:54 INFO:	[hmmsearch]	1993 of 2214 task(s) completed
+2023-05-03 00:52:08 INFO:	[hmmsearch]	2214 of 2214 task(s) completed
+2023-05-03 00:52:14 INFO:	Validating exons and removing overlapping matches
+2023-05-03 00:52:17 INFO:	Results:	C:5.4%[S:5.2%,D:0.2%],F:0.5%,M:94.1%,n:2326	   
+
+2023-05-03 00:52:18 INFO:	
+
+	--------------------------------------------------
+	|Results from dataset eudicots_odb10              |
+	--------------------------------------------------
+	|C:5.4%[S:5.2%,D:0.2%],F:0.5%,M:94.1%,n:2326      |
+	|125	Complete BUSCOs (C)                       |
+	|120	Complete and single-copy BUSCOs (S)       |
+	|5	Complete and duplicated BUSCOs (D)        |
+	|11	Fragmented BUSCOs (F)                     |
+	|2190	Missing BUSCOs (M)                        |
+	|2326	Total BUSCO groups searched               |
+	--------------------------------------------------
+2023-05-03 00:52:18 INFO:	BUSCO analysis done. Total running time: 3159 seconds
+2023-05-03 00:52:18 INFO:	Results written in /domus/h1/dongx/Genome_Analysis/DNA_Assembly/Evaluation/BUSCO_01/home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/BUSCO_01/redundans_busco
+2023-05-03 00:52:18 INFO:	For assistance with interpreting the results, please consult the userguide: https://busco.ezlab.org/busco_userguide.html
+
+2023-05-03 00:52:18 INFO:	Visit this page https://gitlab.com/ezlab/busco#how-to-cite-busco to see how to cite BUSCO
+2023-05-03 00:52:19 INFO:	***** Start a BUSCO v5.3.1 analysis, current time: 05/03/2023 00:52:19 *****
+2023-05-03 00:52:19 INFO:	Configuring BUSCO with /sw/bioinfo/BUSCO/5.3.1/snowy/config.ini
+2023-05-03 00:52:19 INFO:	Mode is genome
+2023-05-03 00:52:19 INFO:	Input file is /home/dongx/Genome_Analysis/DNA_Assembly/Polish/pilon_polished.fasta
+2023-05-03 00:52:19 INFO:	Using local lineages directory /sw/bioinfo/BUSCO/v5_lineage_sets/lineages/eudicots_odb10
+2023-05-03 00:52:19 INFO:	Running BUSCO using lineage dataset eudicots_odb10 (eukaryota, 2020-09-10)
+2023-05-03 00:52:19 INFO:	Running 1 job(s) on metaeuk, starting at 05/03/2023 00:52:19
+2023-05-03 01:00:07 INFO:	[metaeuk]	1 of 1 task(s) completed
+2023-05-03 01:00:08 INFO:	***** Run HMMER on gene sequences *****
+2023-05-03 01:00:08 INFO:	Running 2326 job(s) on hmmsearch, starting at 05/03/2023 01:00:08
+2023-05-03 01:00:19 INFO:	[hmmsearch]	233 of 2326 task(s) completed
+2023-05-03 01:00:31 INFO:	[hmmsearch]	466 of 2326 task(s) completed
+2023-05-03 01:00:41 INFO:	[hmmsearch]	698 of 2326 task(s) completed
+2023-05-03 01:00:52 INFO:	[hmmsearch]	931 of 2326 task(s) completed
+2023-05-03 01:01:08 INFO:	[hmmsearch]	1163 of 2326 task(s) completed
+2023-05-03 01:01:32 INFO:	[hmmsearch]	1396 of 2326 task(s) completed
+2023-05-03 01:01:51 INFO:	[hmmsearch]	1629 of 2326 task(s) completed
+2023-05-03 01:02:09 INFO:	[hmmsearch]	1861 of 2326 task(s) completed
+2023-05-03 01:02:23 INFO:	[hmmsearch]	2094 of 2326 task(s) completed
+2023-05-03 01:02:34 INFO:	[hmmsearch]	2326 of 2326 task(s) completed
+2023-05-03 01:02:39 INFO:	Extracting missing and fragmented buscos from the file refseq_db.faa...
+2023-05-03 01:03:31 INFO:	Running 1 job(s) on metaeuk, starting at 05/03/2023 01:03:31
+2023-05-03 01:42:17 INFO:	[metaeuk]	1 of 1 task(s) completed
+2023-05-03 01:42:18 INFO:	***** Run HMMER on gene sequences *****
+2023-05-03 01:42:18 INFO:	Running 2214 job(s) on hmmsearch, starting at 05/03/2023 01:42:18
+2023-05-03 01:42:33 INFO:	[hmmsearch]	222 of 2214 task(s) completed
+2023-05-03 01:42:46 INFO:	[hmmsearch]	443 of 2214 task(s) completed
+2023-05-03 01:43:01 INFO:	[hmmsearch]	665 of 2214 task(s) completed
+2023-05-03 01:43:16 INFO:	[hmmsearch]	886 of 2214 task(s) completed
+2023-05-03 01:43:31 INFO:	[hmmsearch]	1108 of 2214 task(s) completed
+2023-05-03 01:43:42 INFO:	[hmmsearch]	1329 of 2214 task(s) completed
+2023-05-03 01:43:55 INFO:	[hmmsearch]	1550 of 2214 task(s) completed
+2023-05-03 01:44:08 INFO:	[hmmsearch]	1772 of 2214 task(s) completed
+2023-05-03 01:44:22 INFO:	[hmmsearch]	1993 of 2214 task(s) completed
+2023-05-03 01:44:35 INFO:	[hmmsearch]	2214 of 2214 task(s) completed
+2023-05-03 01:44:40 INFO:	Validating exons and removing overlapping matches
+2023-05-03 01:44:43 INFO:	Results:	C:5.4%[S:5.2%,D:0.2%],F:0.5%,M:94.1%,n:2326	   
+
+2023-05-03 01:44:44 INFO:	
+
+	--------------------------------------------------
+	|Results from dataset eudicots_odb10              |
+	--------------------------------------------------
+	|C:5.4%[S:5.2%,D:0.2%],F:0.5%,M:94.1%,n:2326      |
+	|125	Complete BUSCOs (C)                       |
+	|120	Complete and single-copy BUSCOs (S)       |
+	|5	Complete and duplicated BUSCOs (D)        |
+	|11	Fragmented BUSCOs (F)                     |
+	|2190	Missing BUSCOs (M)                        |
+	|2326	Total BUSCO groups searched               |
+	--------------------------------------------------
+2023-05-03 01:44:44 INFO:	BUSCO analysis done. Total running time: 3144 seconds
+2023-05-03 01:44:44 INFO:	Results written in /domus/h1/dongx/Genome_Analysis/DNA_Assembly/Evaluation/BUSCO_01/home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/BUSCO_01/pilon_busco
+2023-05-03 01:44:44 INFO:	For assistance with interpreting the results, please consult the userguide: https://busco.ezlab.org/busco_userguide.html
+
+2023-05-03 01:44:44 INFO:	Visit this page https://gitlab.com/ezlab/busco#how-to-cite-busco to see how to cite BUSCO

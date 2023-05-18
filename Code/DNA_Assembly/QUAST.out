@@ -1,0 +1,216 @@
+/sw/bioinfo/quast/5.0.2/snowy/bin/quast.py /home/dongx/Genome_Analysis/DNA_Assembly/Canu/Canu_assembly_01/canu_assembly_output_01.contigs.fasta -o /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast -f --eukaryote
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.88.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2023-05-02 22:13:16
+
+Logging to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /domus/h1/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST
+Main parameters: 
+  MODE: default, threads: 4, eukaryotic: true, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/dongx/Genome_Analysis/DNA_Assembly/Canu/Canu_assembly_01/canu_assembly_output_01.contigs.fasta ==> canu_assembly_output_01.contigs
+
+2023-05-02 22:13:23
+Running Basic statistics processor...
+  Contig files: 
+    canu_assembly_output_01.contigs
+  Calculating N50 and L50...
+    canu_assembly_output_01.contigs, N50 = 573556, L50 = 13, Total length = 29781881, GC % = 31.62, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/basic_stats/GC_content_plot.pdf
+  Drawing canu_assembly_output_01.contigs GC content plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/basic_stats/canu_assembly_output_01.contigs_GC_content_plot.pdf
+Done.
+
+2023-05-02 22:13:26
+Running GeneMark-ES...
+  canu_assembly_output_01.contigs
+
+WARNING: License period for GeneMark has ended! 
+To update license, please visit http://exon.gatech.edu/GeneMark/license_download.cgi page and fill in the form.
+You should choose GeneMarkS tool and your operating system (note that GeneMark is free for non-commercial use).
+Download the license key and replace your ~/.gm_key with the updated version. After that you can restart QUAST.
+
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-02 22:13:37
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2023-05-02 22:13:38
+RESULTS:
+  Text versions of total report are saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/report.html
+  PDF version (tables and plots) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/report.pdf
+  Icarus (contig browser) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/icarus.html
+  Log is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/canu_quast/quast.log
+
+Finished: 2023-05-02 22:13:38
+Elapsed time: 0:00:22.756764
+NOTICEs: 2; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/5.0.2/snowy/bin/quast.py /home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.reduced.fa -o /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast -f --eukaryote
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.88.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2023-05-02 22:13:39
+
+Logging to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /domus/h1/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST
+Main parameters: 
+  MODE: default, threads: 4, eukaryotic: true, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.reduced.fa ==> contigs.reduced
+
+2023-05-02 22:13:41
+Running Basic statistics processor...
+  Contig files: 
+    contigs.reduced
+  Calculating N50 and L50...
+    contigs.reduced, N50 = 976490, L50 = 8, Total length = 22575774, GC % = 31.27, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/basic_stats/GC_content_plot.pdf
+  Drawing contigs.reduced GC content plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/basic_stats/contigs.reduced_GC_content_plot.pdf
+Done.
+
+2023-05-02 22:13:43
+Running GeneMark-ES...
+  contigs.reduced
+
+WARNING: License period for GeneMark has ended! 
+To update license, please visit http://exon.gatech.edu/GeneMark/license_download.cgi page and fill in the form.
+You should choose GeneMarkS tool and your operating system (note that GeneMark is free for non-commercial use).
+Download the license key and replace your ~/.gm_key with the updated version. After that you can restart QUAST.
+
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-02 22:13:52
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2023-05-02 22:13:53
+RESULTS:
+  Text versions of total report are saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/report.html
+  PDF version (tables and plots) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/report.pdf
+  Icarus (contig browser) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/icarus.html
+  Log is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/redundans_quast/quast.log
+
+Finished: 2023-05-02 22:13:53
+Elapsed time: 0:00:14.384985
+NOTICEs: 2; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/5.0.2/snowy/bin/quast.py //home/dongx/Genome_Analysis/DNA_Assembly/Polish/pilon_polished.fasta -o /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast -f --eukaryote
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.88.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2023-05-02 22:13:53
+
+Logging to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /domus/h1/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST
+Main parameters: 
+  MODE: default, threads: 4, eukaryotic: true, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  //home/dongx/Genome_Analysis/DNA_Assembly/Polish/pilon_polished.fasta ==> pilon_polished
+
+2023-05-02 22:13:56
+Running Basic statistics processor...
+  Contig files: 
+    pilon_polished
+  Calculating N50 and L50...
+    pilon_polished, N50 = 976490, L50 = 8, Total length = 22575774, GC % = 31.27, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/basic_stats/GC_content_plot.pdf
+  Drawing pilon_polished GC content plot...
+    saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/basic_stats/pilon_polished_GC_content_plot.pdf
+Done.
+
+2023-05-02 22:13:58
+Running GeneMark-ES...
+  pilon_polished
+
+WARNING: License period for GeneMark has ended! 
+To update license, please visit http://exon.gatech.edu/GeneMark/license_download.cgi page and fill in the form.
+You should choose GeneMarkS tool and your operating system (note that GeneMark is free for non-commercial use).
+Download the license key and replace your ~/.gm_key with the updated version. After that you can restart QUAST.
+
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-02 22:14:07
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2023-05-02 22:14:08
+RESULTS:
+  Text versions of total report are saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/report.html
+  PDF version (tables and plots) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/report.pdf
+  Icarus (contig browser) is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/icarus.html
+  Log is saved to /home/dongx/Genome_Analysis/DNA_Assembly/Evaluation/QUAST/pilon_quast/quast.log
+
+Finished: 2023-05-02 22:14:08
+Elapsed time: 0:00:14.384572
+NOTICEs: 2; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
