@@ -1,0 +1,23 @@
+Options: Namespace(fasta='/home/dongx/Genome_Analysis/DNA_Assembly/Canu/Canu_assembly_01/canu_assembly_output_01.contigs.fasta', fastq=[], identity=0.51, iters=2, joins=5, limit=0.2, linkratio=0.7, log=<open file '<stderr>', mode 'w' at 0x2b469049b1e0>, longreads=[], mapq=10, mem=16, minLength=200, nocleaning=True, nogapclosing=False, norearrangements=False, noreduction=True, noscaffolding=False, outdir='/home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced', overlap=0.8, reference='', resume=False, threads=4, tmp='/tmp', usebwa=False, verbose=True)
+
+##################################################
+[Tue May  2 12:19:50 2023] Reduction...
+#file name	genome size	contigs	heterozygous size	[%]	heterozygous contigs	[%]	identity [%]	possible joins	homozygous size	[%]	homozygous contigs	[%]
+/home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.fa	29781881	758	7206107	24.20	487	64.25	90.334	0	22575774	75.80	271	35.75
+
+##################################################
+[Tue May  2 12:23:53 2023] Final reduction...
+#file name	genome size	contigs	heterozygous size	[%]	heterozygous contigs	[%]	identity [%]	possible joins	homozygous size	[%]	homozygous contigs	[%]
+/home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.reduced.fa	22575774	271	58073	0.26	6	2.21	69.659	0	22517701	99.74	265	97.79
+
+##################################################
+[Tue May  2 12:25:51 2023] Reporting statistics...
+#fname	contigs	bases	GC [%]	contigs >1kb	bases in contigs >1kb	N50	N90	Ns	longest
+/home/dongx/Genome_Analysis/DNA_Assembly/Canu/Canu_assembly_01/canu_assembly_output_01.contigs.fasta	758	29781881	31.621	758	29781881	573556	12609	0	3000045
+/home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.fa	758	29781881	31.621	758	29781881	573556	12609	0	3000045
+/home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/contigs.reduced.fa	271	22575774	31.268	271	22575774	976490	21271	0	3000045
+/home/dongx/Genome_Analysis/DNA_Assembly/Reduction/canu_reduced/scaffolds.reduced.fa	265	22517701	31.275	265	22517701	976490	21923	0	3000045
+
+##################################################
+[Tue May  2 12:25:51 2023] Cleaning-up...
+#Time elapsed: 0:06:01.448932
